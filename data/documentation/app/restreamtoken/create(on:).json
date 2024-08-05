@@ -1,0 +1,319 @@
+{
+  "abstract" : [
+    {
+      "text" : "Inherited from ",
+      "type" : "text"
+    },
+    {
+      "code" : "Model.create(on:)",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : ".",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App",
+        "doc:\/\/App\/documentation\/App\/RestreamToken",
+        "doc:\/\/App\/documentation\/App\/RestreamToken\/Model-Implementations"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/RestreamToken\/create(on:)"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "extendedModule" : "FluentKit",
+    "externalID" : "s:9FluentKit5ModelPAAE6create2on7NIOCore15EventLoopFutureCyytGAA8Database_p_tF::SYNTHESIZED::s:3App13RestreamTokenC",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "func"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "create"
+      },
+      {
+        "kind" : "text",
+        "text" : "("
+      },
+      {
+        "kind" : "externalParam",
+        "text" : "on"
+      },
+      {
+        "kind" : "text",
+        "text" : ": any "
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+        "text" : "Database"
+      },
+      {
+        "kind" : "text",
+        "text" : ") -> "
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+        "text" : "EventLoopFuture"
+      },
+      {
+        "kind" : "text",
+        "text" : "<"
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:s4Voida",
+        "text" : "Void"
+      },
+      {
+        "kind" : "text",
+        "text" : ">"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App",
+        "relatedModules" : [
+          "FluentKit"
+        ]
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "Model+CRUD.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/.build\/checkouts\/fluent-kit\/Sources\/FluentKit\/Model\/Model+CRUD.swift#L13"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Instance Method",
+    "symbolKind" : "method",
+    "title" : "create(on:)"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "func"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "create"
+            },
+            {
+              "kind" : "text",
+              "text" : "("
+            },
+            {
+              "kind" : "externalParam",
+              "text" : "on"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "internalParam",
+              "text" : "database"
+            },
+            {
+              "kind" : "text",
+              "text" : ": any "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+              "text" : "Database"
+            },
+            {
+              "kind" : "text",
+              "text" : ") -> "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+              "text" : "EventLoopFuture"
+            },
+            {
+              "kind" : "text",
+              "text" : "<"
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:s4Voida",
+              "text" : "Void"
+            },
+            {
+              "kind" : "text",
+              "text" : ">"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/restreamtoken\/create(on:)"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/RestreamToken": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "RestreamToken"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RestreamToken",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "RestreamToken"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "RestreamToken",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/restreamtoken"
+},
+"doc://App/documentation/App/RestreamToken/Model-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RestreamToken\/Model-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Model Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/restreamtoken\/model-implementations"
+},
+"doc://App/documentation/App/RestreamToken/create(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "create"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RestreamToken\/create(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "create(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/restreamtoken\/create(on:)"
+}
+}
+}

@@ -1,0 +1,237 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App",
+        "doc:\/\/App\/documentation\/App\/RBACMiddleware"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/RBACMiddleware\/init(_:)"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App14RBACMiddlewareVyAcA15PermissionCheckOcfc",
+    "fragments" : [
+      {
+        "kind" : "identifier",
+        "text" : "init"
+      },
+      {
+        "kind" : "text",
+        "text" : "("
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:3App15PermissionCheckO",
+        "text" : "PermissionCheck"
+      },
+      {
+        "kind" : "text",
+        "text" : ")"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "RBACMiddleware.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Middlewares\/RBACMiddleware.swift#L34"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Initializer",
+    "symbolKind" : "init",
+    "title" : "init(_:)"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "init"
+            },
+            {
+              "kind" : "text",
+              "text" : "("
+            },
+            {
+              "kind" : "externalParam",
+              "text" : "_"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "internalParam",
+              "text" : "check"
+            },
+            {
+              "kind" : "text",
+              "text" : ": "
+            },
+            {
+              "identifier" : "doc:\/\/App\/documentation\/App\/PermissionCheck",
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:3App15PermissionCheckO",
+              "text" : "PermissionCheck"
+            },
+            {
+              "kind" : "text",
+              "text" : ")"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/rbacmiddleware\/init(_:)"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/PermissionCheck": {
+  "abstract" : [
+    {
+      "code" : "PermissionCheck",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " enum to define the type of permission check to perform.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "PermissionCheck"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/PermissionCheck",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "PermissionCheck"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "PermissionCheck",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permissioncheck"
+},
+"doc://App/documentation/App/RBACMiddleware": {
+  "abstract" : [
+    {
+      "text" : "Middleware that performs role-based access control (RBAC) by checking the permissions of the authenticated user.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "RBACMiddleware"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RBACMiddleware",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "RBACMiddleware"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "RBACMiddleware",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rbacmiddleware"
+},
+"doc://App/documentation/App/RBACMiddleware/init(_:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App15PermissionCheckO",
+      "text" : "PermissionCheck"
+    },
+    {
+      "kind" : "text",
+      "text" : ")"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RBACMiddleware\/init(_:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rbacmiddleware\/init(_:)"
+}
+}
+}

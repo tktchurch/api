@@ -1,0 +1,297 @@
+{
+  "abstract" : [
+    {
+      "text" : "Inherited from ",
+      "type" : "text"
+    },
+    {
+      "code" : "Model.Siblings",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : ".",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App",
+        "doc:\/\/App\/documentation\/App\/RolePermission",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/Model-Implementations"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/RolePermission\/Siblings"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "extendedModule" : "FluentKit",
+    "externalID" : "s:9FluentKit5ModelPAAE8Siblingsa::SYNTHESIZED::s:3App14RolePermissionC",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "typealias"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "Siblings"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App",
+        "relatedModules" : [
+          "FluentKit"
+        ]
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "Siblings"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "Siblings.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/.build\/checkouts\/fluent-kit\/Sources\/FluentKit\/Properties\/Siblings.swift#L4"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Type Alias",
+    "symbolKind" : "typealias",
+    "title" : "RolePermission.Siblings"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "typealias"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "Siblings"
+            },
+            {
+              "kind" : "text",
+              "text" : "<"
+            },
+            {
+              "kind" : "genericParameter",
+              "text" : "To"
+            },
+            {
+              "kind" : "text",
+              "text" : ", "
+            },
+            {
+              "kind" : "genericParameter",
+              "text" : "Through"
+            },
+            {
+              "kind" : "text",
+              "text" : "> = "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:9FluentKit16SiblingsPropertyC",
+              "text" : "SiblingsProperty"
+            },
+            {
+              "kind" : "text",
+              "text" : "<"
+            },
+            {
+              "kind" : "typeIdentifier",
+              "text" : "Self"
+            },
+            {
+              "kind" : "text",
+              "text" : ", "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "text" : "To"
+            },
+            {
+              "kind" : "text",
+              "text" : ", "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "text" : "Through"
+            },
+            {
+              "kind" : "text",
+              "text" : "> "
+            },
+            {
+              "kind" : "keyword",
+              "text" : "where"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "text" : "To"
+            },
+            {
+              "kind" : "text",
+              "text" : " : "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:9FluentKit5ModelP",
+              "text" : "Model"
+            },
+            {
+              "kind" : "text",
+              "text" : ", "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "text" : "Through"
+            },
+            {
+              "kind" : "text",
+              "text" : " : "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:9FluentKit5ModelP",
+              "text" : "Model"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/rolepermission\/siblings"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/RolePermission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "RolePermission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "RolePermission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "RolePermission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission"
+},
+"doc://App/documentation/App/RolePermission/Model-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/Model-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Model Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/model-implementations"
+},
+"doc://App/documentation/App/RolePermission/Siblings": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Siblings"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/Siblings",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Siblings"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "RolePermission.Siblings",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/siblings"
+}
+}
+}

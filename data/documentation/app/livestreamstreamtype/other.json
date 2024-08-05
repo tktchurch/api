@@ -1,0 +1,164 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App",
+        "doc:\/\/App\/documentation\/App\/LivestreamStreamType"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/other"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App20LivestreamStreamTypeO5otheryA2CmF",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "case"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "other"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "Livestream.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Models\/Livestream.swift#L15"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Case",
+    "symbolKind" : "case",
+    "title" : "LivestreamStreamType.other"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "case"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "other"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/livestreamstreamtype\/other"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/LivestreamStreamType": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "LivestreamStreamType"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "LivestreamStreamType"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "LivestreamStreamType",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype"
+},
+"doc://App/documentation/App/LivestreamStreamType/other": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "other"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/other",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "LivestreamStreamType.other",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype\/other"
+}
+}
+}

@@ -1,0 +1,667 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/RolePermission"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App14RolePermissionC",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "class"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "RolePermission"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "RolePermission"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "RolePermission.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Models\/Auth\/RolePermission.swift#L4"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Class",
+    "symbolKind" : "class",
+    "title" : "RolePermission"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "final"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "keyword",
+              "text" : "class"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "RolePermission"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/9FluentKit8AnyModelP",
+        "doc:\/\/App\/9FluentKit6FieldsP",
+        "doc:\/\/App\/9FluentKit5ModelP",
+        "doc:\/\/App\/9FluentKit6SchemaP",
+        "doc:\/\/App\/s23CustomStringConvertibleP",
+        "doc:\/\/App\/Se",
+        "doc:\/\/App\/SE",
+        "doc:\/\/App\/s8SendableP",
+        "doc:\/\/App\/5Vapor21AsyncRequestDecodableP",
+        "doc:\/\/App\/5Vapor22AsyncResponseEncodableP",
+        "doc:\/\/App\/5Vapor7ContentP",
+        "doc:\/\/App\/5Vapor16RequestDecodableP",
+        "doc:\/\/App\/5Vapor17ResponseEncodableP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/RolePermission\/init()",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/init(id:name:permissions:)"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/RolePermission\/id-swift.property",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/name",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/permissions",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/users"
+      ],
+      "title" : "Instance Properties"
+    },
+    {
+      "anchor" : "Type-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/RolePermission\/schema"
+      ],
+      "title" : "Type Properties"
+    },
+    {
+      "anchor" : "Default-Implementations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/RolePermission\/AnyModel-Implementations",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/Content-Implementations",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/CustomStringConvertible-Implementations",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/Decodable-Implementations",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/Encodable-Implementations",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/Fields-Implementations",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/Model-Implementations",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/ResponseEncodable-Implementations",
+        "doc:\/\/App\/documentation\/App\/RolePermission\/Schema-Implementations"
+      ],
+      "title" : "Default Implementations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/rolepermission"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/5Vapor16RequestDecodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor16RequestDecodableP",
+  "title" : "Vapor.RequestDecodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor17ResponseEncodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor17ResponseEncodableP",
+  "title" : "Vapor.ResponseEncodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor21AsyncRequestDecodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor21AsyncRequestDecodableP",
+  "title" : "Vapor.AsyncRequestDecodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor22AsyncResponseEncodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor22AsyncResponseEncodableP",
+  "title" : "Vapor.AsyncResponseEncodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor7ContentP": {
+  "identifier" : "doc:\/\/App\/5Vapor7ContentP",
+  "title" : "Vapor.Content",
+  "type" : "unresolvable"
+},
+"doc://App/9FluentKit5ModelP": {
+  "identifier" : "doc:\/\/App\/9FluentKit5ModelP",
+  "title" : "FluentKit.Model",
+  "type" : "unresolvable"
+},
+"doc://App/9FluentKit6FieldsP": {
+  "identifier" : "doc:\/\/App\/9FluentKit6FieldsP",
+  "title" : "FluentKit.Fields",
+  "type" : "unresolvable"
+},
+"doc://App/9FluentKit6SchemaP": {
+  "identifier" : "doc:\/\/App\/9FluentKit6SchemaP",
+  "title" : "FluentKit.Schema",
+  "type" : "unresolvable"
+},
+"doc://App/9FluentKit8AnyModelP": {
+  "identifier" : "doc:\/\/App\/9FluentKit8AnyModelP",
+  "title" : "FluentKit.AnyModel",
+  "type" : "unresolvable"
+},
+"doc://App/SE": {
+  "identifier" : "doc:\/\/App\/SE",
+  "title" : "Swift.Encodable",
+  "type" : "unresolvable"
+},
+"doc://App/Se": {
+  "identifier" : "doc:\/\/App\/Se",
+  "title" : "Swift.Decodable",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/RolePermission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "RolePermission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "RolePermission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "RolePermission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission"
+},
+"doc://App/documentation/App/RolePermission/AnyModel-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/AnyModel-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "AnyModel Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/anymodel-implementations"
+},
+"doc://App/documentation/App/RolePermission/Content-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/Content-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Content Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/content-implementations"
+},
+"doc://App/documentation/App/RolePermission/CustomStringConvertible-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/CustomStringConvertible-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "CustomStringConvertible Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/customstringconvertible-implementations"
+},
+"doc://App/documentation/App/RolePermission/Decodable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/Decodable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Decodable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/decodable-implementations"
+},
+"doc://App/documentation/App/RolePermission/Encodable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/Encodable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Encodable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/encodable-implementations"
+},
+"doc://App/documentation/App/RolePermission/Fields-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/Fields-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Fields Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/fields-implementations"
+},
+"doc://App/documentation/App/RolePermission/Model-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/Model-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Model Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/model-implementations"
+},
+"doc://App/documentation/App/RolePermission/ResponseEncodable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/ResponseEncodable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "ResponseEncodable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/responseencodable-implementations"
+},
+"doc://App/documentation/App/RolePermission/Schema-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/Schema-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Schema Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/schema-implementations"
+},
+"doc://App/documentation/App/RolePermission/id-swift.property": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "id"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4UUIDV",
+      "text" : "UUID"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/id-swift.property",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "id",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/id-swift.property"
+},
+"doc://App/documentation/App/RolePermission/init()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "()"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/init()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/init()"
+},
+"doc://App/documentation/App/RolePermission/init(id:name:permissions:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "id"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4UUIDV",
+      "text" : "UUID"
+    },
+    {
+      "kind" : "text",
+      "text" : "?, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "name"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "permissions"
+    },
+    {
+      "kind" : "text",
+      "text" : ": ["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App10PermissionO",
+      "text" : "Permission"
+    },
+    {
+      "kind" : "text",
+      "text" : "])"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/init(id:name:permissions:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(id:name:permissions:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/init(id:name:permissions:)"
+},
+"doc://App/documentation/App/RolePermission/name": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "name"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/name",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "name",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/name"
+},
+"doc://App/documentation/App/RolePermission/permissions": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "permissions"
+    },
+    {
+      "kind" : "text",
+      "text" : ": ["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App10PermissionO",
+      "text" : "Permission"
+    },
+    {
+      "kind" : "text",
+      "text" : "]"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/permissions",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "permissions",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/permissions"
+},
+"doc://App/documentation/App/RolePermission/schema": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "let"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "schema"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/schema",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "schema",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/schema"
+},
+"doc://App/documentation/App/RolePermission/users": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "users"
+    },
+    {
+      "kind" : "text",
+      "text" : ": ["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App4UserC",
+      "text" : "User"
+    },
+    {
+      "kind" : "text",
+      "text" : "]"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission\/users",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "users",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission\/users"
+},
+"doc://App/s23CustomStringConvertibleP": {
+  "identifier" : "doc:\/\/App\/s23CustomStringConvertibleP",
+  "title" : "Swift.CustomStringConvertible",
+  "type" : "unresolvable"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

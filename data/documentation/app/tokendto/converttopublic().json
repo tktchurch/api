@@ -1,0 +1,192 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App",
+        "doc:\/\/App\/documentation\/App\/TokenDTO"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/TokenDTO\/convertToPublic()"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App8TokenDTOV15convertToPublicACyF",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "func"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "convertToPublic"
+      },
+      {
+        "kind" : "text",
+        "text" : "() -> "
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:3App8TokenDTOV",
+        "text" : "TokenDTO"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "TokenDTO.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/DTOs\/TokenDTO.swift#L14"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Instance Method",
+    "symbolKind" : "method",
+    "title" : "convertToPublic()"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "func"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "convertToPublic"
+            },
+            {
+              "kind" : "text",
+              "text" : "() -> "
+            },
+            {
+              "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO",
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:3App8TokenDTOV",
+              "text" : "TokenDTO"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/tokendto\/converttopublic()"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/TokenDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "TokenDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "TokenDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "TokenDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto"
+},
+"doc://App/documentation/App/TokenDTO/convertToPublic()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "convertToPublic"
+    },
+    {
+      "kind" : "text",
+      "text" : "() -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App8TokenDTOV",
+      "text" : "TokenDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/convertToPublic()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "convertToPublic()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/converttopublic()"
+}
+}
+}

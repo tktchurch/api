@@ -1,0 +1,880 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/Key"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App3KeyC",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "class"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "Key"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "Key"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "Key.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Models\/Auth\/Key.swift#L4"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Class",
+    "symbolKind" : "class",
+    "title" : "Key"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "final"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "keyword",
+              "text" : "class"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "Key"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/9FluentKit8AnyModelP",
+        "doc:\/\/App\/9FluentKit6FieldsP",
+        "doc:\/\/App\/9FluentKit5ModelP",
+        "doc:\/\/App\/9FluentKit6SchemaP",
+        "doc:\/\/App\/s23CustomStringConvertibleP",
+        "doc:\/\/App\/Se",
+        "doc:\/\/App\/SE",
+        "doc:\/\/App\/s8SendableP",
+        "doc:\/\/App\/5Vapor21AsyncRequestDecodableP",
+        "doc:\/\/App\/5Vapor22AsyncResponseEncodableP",
+        "doc:\/\/App\/5Vapor7ContentP",
+        "doc:\/\/App\/5Vapor16RequestDecodableP",
+        "doc:\/\/App\/5Vapor17ResponseEncodableP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/Key\/init()",
+        "doc:\/\/App\/documentation\/App\/Key\/init(kid:keyType:keyData:createdAt:updatedAt:status:)"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/Key\/createdAt",
+        "doc:\/\/App\/documentation\/App\/Key\/id-swift.property",
+        "doc:\/\/App\/documentation\/App\/Key\/keyData",
+        "doc:\/\/App\/documentation\/App\/Key\/keyType-swift.property",
+        "doc:\/\/App\/documentation\/App\/Key\/kid",
+        "doc:\/\/App\/documentation\/App\/Key\/status",
+        "doc:\/\/App\/documentation\/App\/Key\/updatedAt"
+      ],
+      "title" : "Instance Properties"
+    },
+    {
+      "anchor" : "Type-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/Key\/schema"
+      ],
+      "title" : "Type Properties"
+    },
+    {
+      "anchor" : "Enumerations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/Key\/KeyType-swift.enum"
+      ],
+      "title" : "Enumerations"
+    },
+    {
+      "anchor" : "Default-Implementations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/Key\/AnyModel-Implementations",
+        "doc:\/\/App\/documentation\/App\/Key\/Content-Implementations",
+        "doc:\/\/App\/documentation\/App\/Key\/CustomStringConvertible-Implementations",
+        "doc:\/\/App\/documentation\/App\/Key\/Decodable-Implementations",
+        "doc:\/\/App\/documentation\/App\/Key\/Encodable-Implementations",
+        "doc:\/\/App\/documentation\/App\/Key\/Fields-Implementations",
+        "doc:\/\/App\/documentation\/App\/Key\/Model-Implementations",
+        "doc:\/\/App\/documentation\/App\/Key\/ResponseEncodable-Implementations",
+        "doc:\/\/App\/documentation\/App\/Key\/Schema-Implementations"
+      ],
+      "title" : "Default Implementations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/key"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/5Vapor16RequestDecodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor16RequestDecodableP",
+  "title" : "Vapor.RequestDecodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor17ResponseEncodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor17ResponseEncodableP",
+  "title" : "Vapor.ResponseEncodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor21AsyncRequestDecodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor21AsyncRequestDecodableP",
+  "title" : "Vapor.AsyncRequestDecodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor22AsyncResponseEncodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor22AsyncResponseEncodableP",
+  "title" : "Vapor.AsyncResponseEncodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor7ContentP": {
+  "identifier" : "doc:\/\/App\/5Vapor7ContentP",
+  "title" : "Vapor.Content",
+  "type" : "unresolvable"
+},
+"doc://App/9FluentKit5ModelP": {
+  "identifier" : "doc:\/\/App\/9FluentKit5ModelP",
+  "title" : "FluentKit.Model",
+  "type" : "unresolvable"
+},
+"doc://App/9FluentKit6FieldsP": {
+  "identifier" : "doc:\/\/App\/9FluentKit6FieldsP",
+  "title" : "FluentKit.Fields",
+  "type" : "unresolvable"
+},
+"doc://App/9FluentKit6SchemaP": {
+  "identifier" : "doc:\/\/App\/9FluentKit6SchemaP",
+  "title" : "FluentKit.Schema",
+  "type" : "unresolvable"
+},
+"doc://App/9FluentKit8AnyModelP": {
+  "identifier" : "doc:\/\/App\/9FluentKit8AnyModelP",
+  "title" : "FluentKit.AnyModel",
+  "type" : "unresolvable"
+},
+"doc://App/SE": {
+  "identifier" : "doc:\/\/App\/SE",
+  "title" : "Swift.Encodable",
+  "type" : "unresolvable"
+},
+"doc://App/Se": {
+  "identifier" : "doc:\/\/App\/Se",
+  "title" : "Swift.Decodable",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/Key": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Key"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Key"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Key",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key"
+},
+"doc://App/documentation/App/Key/AnyModel-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/AnyModel-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "AnyModel Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/anymodel-implementations"
+},
+"doc://App/documentation/App/Key/Content-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/Content-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Content Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/content-implementations"
+},
+"doc://App/documentation/App/Key/CustomStringConvertible-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/CustomStringConvertible-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "CustomStringConvertible Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/customstringconvertible-implementations"
+},
+"doc://App/documentation/App/Key/Decodable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/Decodable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Decodable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/decodable-implementations"
+},
+"doc://App/documentation/App/Key/Encodable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/Encodable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Encodable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/encodable-implementations"
+},
+"doc://App/documentation/App/Key/Fields-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/Fields-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Fields Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/fields-implementations"
+},
+"doc://App/documentation/App/Key/KeyType-swift.enum": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "KeyType"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/KeyType-swift.enum",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "KeyType"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Key.KeyType",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/keytype-swift.enum"
+},
+"doc://App/documentation/App/Key/Model-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/Model-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Model Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/model-implementations"
+},
+"doc://App/documentation/App/Key/ResponseEncodable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/ResponseEncodable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "ResponseEncodable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/responseencodable-implementations"
+},
+"doc://App/documentation/App/Key/Schema-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/Schema-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Schema Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/schema-implementations"
+},
+"doc://App/documentation/App/Key/createdAt": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "createdAt"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4DateV",
+      "text" : "Date"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/createdAt",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "createdAt",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/createdat"
+},
+"doc://App/documentation/App/Key/id-swift.property": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "id"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4UUIDV",
+      "text" : "UUID"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/id-swift.property",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "id",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/id-swift.property"
+},
+"doc://App/documentation/App/Key/init()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "()"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/init()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/init()"
+},
+"doc://App/documentation/App/Key/init(kid:keyType:keyData:createdAt:updatedAt:status:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "kid"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4UUIDV",
+      "text" : "UUID"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "keyType"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App3KeyC",
+      "text" : "Key"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App3KeyC0B4TypeO",
+      "text" : "KeyType"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "keyData"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "createdAt"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4DateV",
+      "text" : "Date"
+    },
+    {
+      "kind" : "text",
+      "text" : "?, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "updatedAt"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4DateV",
+      "text" : "Date"
+    },
+    {
+      "kind" : "text",
+      "text" : "?, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "status"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App6StatusO",
+      "text" : "Status"
+    },
+    {
+      "kind" : "text",
+      "text" : ")"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/init(kid:keyType:keyData:createdAt:updatedAt:status:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(kid:keyType:keyData:createdAt:updatedAt:status:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/init(kid:keytype:keydata:createdat:updatedat:status:)"
+},
+"doc://App/documentation/App/Key/keyData": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "keyData"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/keyData",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "keyData",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/keydata"
+},
+"doc://App/documentation/App/Key/keyType-swift.property": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "keyType"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App3KeyC",
+      "text" : "Key"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App3KeyC0B4TypeO",
+      "text" : "KeyType"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/keyType-swift.property",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "keyType",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/keytype-swift.property"
+},
+"doc://App/documentation/App/Key/kid": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "kid"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/kid",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "kid",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/kid"
+},
+"doc://App/documentation/App/Key/schema": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "let"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "schema"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/schema",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "schema",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/schema"
+},
+"doc://App/documentation/App/Key/status": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "status"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App6StatusO",
+      "text" : "Status"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/status",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "status",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/status"
+},
+"doc://App/documentation/App/Key/updatedAt": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "updatedAt"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4DateV",
+      "text" : "Date"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key\/updatedAt",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "updatedAt",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key\/updatedat"
+},
+"doc://App/s23CustomStringConvertibleP": {
+  "identifier" : "doc:\/\/App\/s23CustomStringConvertibleP",
+  "title" : "Swift.CustomStringConvertible",
+  "type" : "unresolvable"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

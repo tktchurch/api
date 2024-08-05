@@ -1,0 +1,242 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App",
+        "doc:\/\/App\/documentation\/App\/PermissionCheck"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/PermissionCheck\/any(_:)"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App15PermissionCheckO3anyyACSayAA0B0OGcACmF",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "case"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "any"
+      },
+      {
+        "kind" : "text",
+        "text" : "(["
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:3App10PermissionO",
+        "text" : "Permission"
+      },
+      {
+        "kind" : "text",
+        "text" : "])"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "RBACMiddleware.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Middlewares\/RBACMiddleware.swift#L24"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Case",
+    "symbolKind" : "case",
+    "title" : "PermissionCheck.any(_:)"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "case"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "any"
+            },
+            {
+              "kind" : "text",
+              "text" : "(["
+            },
+            {
+              "identifier" : "doc:\/\/App\/documentation\/App\/Permission",
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:3App10PermissionO",
+              "text" : "Permission"
+            },
+            {
+              "kind" : "text",
+              "text" : "])"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/permissioncheck\/any(_:)"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/Permission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Permission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Permission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Permission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission"
+},
+"doc://App/documentation/App/PermissionCheck": {
+  "abstract" : [
+    {
+      "code" : "PermissionCheck",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " enum to define the type of permission check to perform.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "PermissionCheck"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/PermissionCheck",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "PermissionCheck"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "PermissionCheck",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permissioncheck"
+},
+"doc://App/documentation/App/PermissionCheck/any(_:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "any"
+    },
+    {
+      "kind" : "text",
+      "text" : "(["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App10PermissionO",
+      "text" : "Permission"
+    },
+    {
+      "kind" : "text",
+      "text" : "])"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/PermissionCheck\/any(_:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "PermissionCheck.any(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permissioncheck\/any(_:)"
+}
+}
+}

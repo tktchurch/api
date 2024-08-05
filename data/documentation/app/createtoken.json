@@ -1,0 +1,352 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/CreateToken"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App11CreateTokenV",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "struct"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "CreateToken"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "CreateToken"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "CreateToken.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Migrations\/CreateToken.swift#L4"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Structure",
+    "symbolKind" : "struct",
+    "title" : "CreateToken"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "struct"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "CreateToken"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/9FluentKit14AsyncMigrationP",
+        "doc:\/\/App\/9FluentKit9MigrationP",
+        "doc:\/\/App\/s15BitwiseCopyableP",
+        "doc:\/\/App\/s8SendableP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/CreateToken\/init()"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/CreateToken\/prepare(on:)-3cw2k",
+        "doc:\/\/App\/documentation\/App\/CreateToken\/revert(on:)-6v4yv"
+      ],
+      "title" : "Instance Methods"
+    },
+    {
+      "anchor" : "Default-Implementations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/CreateToken\/Migration-Implementations"
+      ],
+      "title" : "Default Implementations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/createtoken"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/9FluentKit14AsyncMigrationP": {
+  "identifier" : "doc:\/\/App\/9FluentKit14AsyncMigrationP",
+  "title" : "FluentKit.AsyncMigration",
+  "type" : "unresolvable"
+},
+"doc://App/9FluentKit9MigrationP": {
+  "identifier" : "doc:\/\/App\/9FluentKit9MigrationP",
+  "title" : "FluentKit.Migration",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/CreateToken": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CreateToken"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateToken",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CreateToken"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "CreateToken",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createtoken"
+},
+"doc://App/documentation/App/CreateToken/Migration-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateToken\/Migration-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Migration Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createtoken\/migration-implementations"
+},
+"doc://App/documentation/App/CreateToken/init()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "()"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateToken\/init()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createtoken\/init()"
+},
+"doc://App/documentation/App/CreateToken/prepare(on:)-3cw2k": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "prepare"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateToken\/prepare(on:)-3cw2k",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "prepare(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createtoken\/prepare(on:)-3cw2k"
+},
+"doc://App/documentation/App/CreateToken/revert(on:)-6v4yv": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "revert"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateToken\/revert(on:)-6v4yv",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "revert(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createtoken\/revert(on:)-6v4yv"
+},
+"doc://App/s15BitwiseCopyableP": {
+  "identifier" : "doc:\/\/App\/s15BitwiseCopyableP",
+  "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

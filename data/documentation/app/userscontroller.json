@@ -1,0 +1,481 @@
+{
+  "abstract" : [
+    {
+      "text" : "A controller that handles user-related routes.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/UsersController"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App15UsersControllerV",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "struct"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "UsersController"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "UsersController"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "UsersController.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Controllers\/UsersController.swift#L12"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Structure",
+    "symbolKind" : "struct",
+    "title" : "UsersController"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "struct"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "UsersController"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/s15BitwiseCopyableP",
+        "doc:\/\/App\/s8SendableP",
+        "doc:\/\/App\/5Vapor15RouteCollectionP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/UsersController\/init()"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/UsersController\/boot(routes:)",
+        "doc:\/\/App\/documentation\/App\/UsersController\/firebaseAdminAuthListUsers(_:)",
+        "doc:\/\/App\/documentation\/App\/UsersController\/index(req:)",
+        "doc:\/\/App\/documentation\/App\/UsersController\/show(req:)"
+      ],
+      "title" : "Instance Methods"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/userscontroller"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/5Vapor15RouteCollectionP": {
+  "identifier" : "doc:\/\/App\/5Vapor15RouteCollectionP",
+  "title" : "Vapor.RouteCollection",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/UsersController": {
+  "abstract" : [
+    {
+      "text" : "A controller that handles user-related routes.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "UsersController"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UsersController",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "UsersController"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UsersController",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userscontroller"
+},
+"doc://App/documentation/App/UsersController/boot(routes:)": {
+  "abstract" : [
+    {
+      "text" : "Registers routes to the incoming router.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "boot"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "routes"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor13RoutesBuilderP",
+      "text" : "RoutesBuilder"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UsersController\/boot(routes:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "boot(routes:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userscontroller\/boot(routes:)"
+},
+"doc://App/documentation/App/UsersController/firebaseAdminAuthListUsers(_:)": {
+  "abstract" : [
+    {
+      "text" : "Fetches a list of users from Firebase Admin.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "firebaseAdminAuthListUsers"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor7RequestC",
+      "text" : "Request"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor8ResponseC",
+      "text" : "Response"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UsersController\/firebaseAdminAuthListUsers(_:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "firebaseAdminAuthListUsers(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userscontroller\/firebaseadminauthlistusers(_:)"
+},
+"doc://App/documentation/App/UsersController/index(req:)": {
+  "abstract" : [
+    {
+      "text" : "Fetches a list of all users.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "index"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "req"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor7RequestC",
+      "text" : "Request"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> ["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App7UserDTOV",
+      "text" : "UserDTO"
+    },
+    {
+      "kind" : "text",
+      "text" : "]"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UsersController\/index(req:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "index(req:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userscontroller\/index(req:)"
+},
+"doc://App/documentation/App/UsersController/init()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "()"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UsersController\/init()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userscontroller\/init()"
+},
+"doc://App/documentation/App/UsersController/show(req:)": {
+  "abstract" : [
+    {
+      "text" : "Fetches a single user by their ID from Firebase Admin.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "show"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "req"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor7RequestC",
+      "text" : "Request"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor8ResponseC",
+      "text" : "Response"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UsersController\/show(req:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "show(req:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userscontroller\/show(req:)"
+},
+"doc://App/s15BitwiseCopyableP": {
+  "identifier" : "doc:\/\/App\/s15BitwiseCopyableP",
+  "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

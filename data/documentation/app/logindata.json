@@ -1,0 +1,444 @@
+{
+  "abstract" : [
+    {
+      "text" : "A struct representing login data.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/LoginData"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App9LoginDataV",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "struct"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "LoginData"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "LoginData"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "UsersController.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Controllers\/UsersController.swift#L6"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Structure",
+    "symbolKind" : "struct",
+    "title" : "LoginData"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "struct"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "LoginData"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/Se",
+        "doc:\/\/App\/SE",
+        "doc:\/\/App\/s8SendableP",
+        "doc:\/\/App\/5Vapor21AsyncRequestDecodableP",
+        "doc:\/\/App\/5Vapor22AsyncResponseEncodableP",
+        "doc:\/\/App\/5Vapor15AuthenticatableP",
+        "doc:\/\/App\/5Vapor7ContentP",
+        "doc:\/\/App\/5Vapor16RequestDecodableP",
+        "doc:\/\/App\/5Vapor17ResponseEncodableP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/LoginData\/init(email:password:)",
+        "doc:\/\/App\/documentation\/App\/LoginData\/init(from:)"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/LoginData\/email",
+        "doc:\/\/App\/documentation\/App\/LoginData\/password"
+      ],
+      "title" : "Instance Properties"
+    },
+    {
+      "anchor" : "Default-Implementations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/LoginData\/Authenticatable-Implementations",
+        "doc:\/\/App\/documentation\/App\/LoginData\/Content-Implementations",
+        "doc:\/\/App\/documentation\/App\/LoginData\/ResponseEncodable-Implementations"
+      ],
+      "title" : "Default Implementations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/logindata"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/5Vapor15AuthenticatableP": {
+  "identifier" : "doc:\/\/App\/5Vapor15AuthenticatableP",
+  "title" : "Vapor.Authenticatable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor16RequestDecodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor16RequestDecodableP",
+  "title" : "Vapor.RequestDecodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor17ResponseEncodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor17ResponseEncodableP",
+  "title" : "Vapor.ResponseEncodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor21AsyncRequestDecodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor21AsyncRequestDecodableP",
+  "title" : "Vapor.AsyncRequestDecodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor22AsyncResponseEncodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor22AsyncResponseEncodableP",
+  "title" : "Vapor.AsyncResponseEncodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor7ContentP": {
+  "identifier" : "doc:\/\/App\/5Vapor7ContentP",
+  "title" : "Vapor.Content",
+  "type" : "unresolvable"
+},
+"doc://App/SE": {
+  "identifier" : "doc:\/\/App\/SE",
+  "title" : "Swift.Encodable",
+  "type" : "unresolvable"
+},
+"doc://App/Se": {
+  "identifier" : "doc:\/\/App\/Se",
+  "title" : "Swift.Decodable",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/LoginData": {
+  "abstract" : [
+    {
+      "text" : "A struct representing login data.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "LoginData"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LoginData",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "LoginData"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "LoginData",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/logindata"
+},
+"doc://App/documentation/App/LoginData/Authenticatable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LoginData\/Authenticatable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Authenticatable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/logindata\/authenticatable-implementations"
+},
+"doc://App/documentation/App/LoginData/Content-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LoginData\/Content-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Content Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/logindata\/content-implementations"
+},
+"doc://App/documentation/App/LoginData/ResponseEncodable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LoginData\/ResponseEncodable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "ResponseEncodable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/logindata\/responseencodable-implementations"
+},
+"doc://App/documentation/App/LoginData/email": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "let"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "email"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LoginData\/email",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "email",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/logindata\/email"
+},
+"doc://App/documentation/App/LoginData/init(email:password:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "email"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "password"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : ")"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LoginData\/init(email:password:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(email:password:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/logindata\/init(email:password:)"
+},
+"doc://App/documentation/App/LoginData/init(from:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "from"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s7DecoderP",
+      "text" : "Decoder"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LoginData\/init(from:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(from:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/logindata\/init(from:)"
+},
+"doc://App/documentation/App/LoginData/password": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "let"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "password"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LoginData\/password",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "password",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/logindata\/password"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

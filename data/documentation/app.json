@@ -1,0 +1,2192 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "App",
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "role" : "collection",
+    "roleHeading" : "Command-line Tool",
+    "symbolKind" : "module",
+    "title" : "App"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Classes",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/Country",
+        "doc:\/\/App\/documentation\/App\/Event",
+        "doc:\/\/App\/documentation\/App\/FileChunks",
+        "doc:\/\/App\/documentation\/App\/FileModel",
+        "doc:\/\/App\/documentation\/App\/Key",
+        "doc:\/\/App\/documentation\/App\/Livestream",
+        "doc:\/\/App\/documentation\/App\/NewsLetter",
+        "doc:\/\/App\/documentation\/App\/RestreamToken",
+        "doc:\/\/App\/documentation\/App\/RolePermission",
+        "doc:\/\/App\/documentation\/App\/Todo",
+        "doc:\/\/App\/documentation\/App\/Token",
+        "doc:\/\/App\/documentation\/App\/User",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission"
+      ],
+      "title" : "Classes"
+    },
+    {
+      "anchor" : "Structures",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1",
+        "doc:\/\/App\/documentation\/App\/AuthenticationInitializer",
+        "doc:\/\/App\/documentation\/App\/CertificateController",
+        "doc:\/\/App\/documentation\/App\/CreateKey",
+        "doc:\/\/App\/documentation\/App\/CreateRestreamToken",
+        "doc:\/\/App\/documentation\/App\/CreateRolePermission",
+        "doc:\/\/App\/documentation\/App\/CreateToken",
+        "doc:\/\/App\/documentation\/App\/CreateUser",
+        "doc:\/\/App\/documentation\/App\/CreateUserRolePermission",
+        "doc:\/\/App\/documentation\/App\/EventController",
+        "doc:\/\/App\/documentation\/App\/EventDTO",
+        "doc:\/\/App\/documentation\/App\/FileModelDTO",
+        "doc:\/\/App\/documentation\/App\/FileUploadMiddleware",
+        "doc:\/\/App\/documentation\/App\/KeyDTO",
+        "doc:\/\/App\/documentation\/App\/LivestreamController",
+        "doc:\/\/App\/documentation\/App\/LivestreamDTO",
+        "doc:\/\/App\/documentation\/App\/LoginData",
+        "doc:\/\/App\/documentation\/App\/NewsLetterController",
+        "doc:\/\/App\/documentation\/App\/NewsLetterDTO",
+        "doc:\/\/App\/documentation\/App\/RBACMiddleware",
+        "doc:\/\/App\/documentation\/App\/SeedKeys",
+        "doc:\/\/App\/documentation\/App\/SeedRolePermission",
+        "doc:\/\/App\/documentation\/App\/SeedUser",
+        "doc:\/\/App\/documentation\/App\/SeedUserRolePermission",
+        "doc:\/\/App\/documentation\/App\/TodoDTO",
+        "doc:\/\/App\/documentation\/App\/TokenAuthenticator",
+        "doc:\/\/App\/documentation\/App\/TokenDTO",
+        "doc:\/\/App\/documentation\/App\/UserDTO",
+        "doc:\/\/App\/documentation\/App\/UserPayload",
+        "doc:\/\/App\/documentation\/App\/UserResponse",
+        "doc:\/\/App\/documentation\/App\/UsersController"
+      ],
+      "title" : "Structures"
+    },
+    {
+      "anchor" : "Functions",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/configure(_:)",
+        "doc:\/\/App\/documentation\/App\/routes(_:)"
+      ],
+      "title" : "Functions"
+    },
+    {
+      "anchor" : "Enumerations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/AccountType",
+        "doc:\/\/App\/documentation\/App\/ContentType",
+        "doc:\/\/App\/documentation\/App\/Entrypoint",
+        "doc:\/\/App\/documentation\/App\/FileError",
+        "doc:\/\/App\/documentation\/App\/FileExtension",
+        "doc:\/\/App\/documentation\/App\/LivestreamStreamType",
+        "doc:\/\/App\/documentation\/App\/Permission",
+        "doc:\/\/App\/documentation\/App\/PermissionCheck",
+        "doc:\/\/App\/documentation\/App\/Provider",
+        "doc:\/\/App\/documentation\/App\/Roles",
+        "doc:\/\/App\/documentation\/App\/Status",
+        "doc:\/\/App\/documentation\/App\/StorageType",
+        "doc:\/\/App\/documentation\/App\/TokenStatus"
+      ],
+      "title" : "Enumerations"
+    },
+    {
+      "anchor" : "Extended-Modules",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/CryptoKit",
+        "doc:\/\/App\/documentation\/App\/FluentKit",
+        "doc:\/\/App\/documentation\/App\/Foundation",
+        "doc:\/\/App\/documentation\/App\/Vapor"
+      ],
+      "title" : "Extended Modules"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/AccountType": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "AccountType"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/AccountType",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "AccountType"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "AccountType",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/accounttype"
+},
+"doc://App/documentation/App/AuthenicationControllerV1": {
+  "abstract" : [
+    {
+      "text" : "A controller responsible for handling authentication-related endpoints.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "AuthenicationControllerV1"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "AuthenicationControllerV1"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "AuthenicationControllerV1",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/authenicationcontrollerv1"
+},
+"doc://App/documentation/App/AuthenticationInitializer": {
+  "abstract" : [
+    {
+      "text" : "A struct that initializes authentication for the application.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "AuthenticationInitializer"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/AuthenticationInitializer",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "AuthenticationInitializer"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "AuthenticationInitializer",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/authenticationinitializer"
+},
+"doc://App/documentation/App/CertificateController": {
+  "abstract" : [
+    {
+      "text" : "A controller that handles certificate-related routes.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CertificateController"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CertificateController",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CertificateController"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "CertificateController",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/certificatecontroller"
+},
+"doc://App/documentation/App/ContentType": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "ContentType"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/ContentType",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "ContentType"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "ContentType",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/contenttype"
+},
+"doc://App/documentation/App/Country": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Country"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Country",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Country"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Country",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/country"
+},
+"doc://App/documentation/App/CreateKey": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CreateKey"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateKey",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CreateKey"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "CreateKey",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createkey"
+},
+"doc://App/documentation/App/CreateRestreamToken": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CreateRestreamToken"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateRestreamToken",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CreateRestreamToken"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "CreateRestreamToken",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createrestreamtoken"
+},
+"doc://App/documentation/App/CreateRolePermission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CreateRolePermission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateRolePermission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CreateRolePermission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "CreateRolePermission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createrolepermission"
+},
+"doc://App/documentation/App/CreateToken": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CreateToken"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateToken",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CreateToken"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "CreateToken",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createtoken"
+},
+"doc://App/documentation/App/CreateUser": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CreateUser"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateUser",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CreateUser"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "CreateUser",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createuser"
+},
+"doc://App/documentation/App/CreateUserRolePermission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CreateUserRolePermission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CreateUserRolePermission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CreateUserRolePermission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "CreateUserRolePermission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/createuserrolepermission"
+},
+"doc://App/documentation/App/CryptoKit": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/CryptoKit",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "CryptoKit",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/cryptokit"
+},
+"doc://App/documentation/App/Entrypoint": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Entrypoint"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Entrypoint",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Entrypoint"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Entrypoint",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/entrypoint"
+},
+"doc://App/documentation/App/Event": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Event"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Event",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Event"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Event",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/event"
+},
+"doc://App/documentation/App/EventController": {
+  "abstract" : [
+    {
+      "text" : "A controller that handles event-related routes.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "EventController"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/EventController",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "EventController"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "EventController",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/eventcontroller"
+},
+"doc://App/documentation/App/EventDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "EventDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/EventDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "EventDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "EventDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/eventdto"
+},
+"doc://App/documentation/App/FileChunks": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "FileChunks"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/FileChunks",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "FileChunks"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "FileChunks",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/filechunks"
+},
+"doc://App/documentation/App/FileError": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "FileError"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/FileError",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "FileError"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "FileError",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/fileerror"
+},
+"doc://App/documentation/App/FileExtension": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "FileExtension"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/FileExtension",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "FileExtension"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "FileExtension",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/fileextension"
+},
+"doc://App/documentation/App/FileModel": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "FileModel"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/FileModel",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "FileModel"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "FileModel",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/filemodel"
+},
+"doc://App/documentation/App/FileModelDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "FileModelDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/FileModelDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "FileModelDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "FileModelDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/filemodeldto"
+},
+"doc://App/documentation/App/FileUploadMiddleware": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "FileUploadMiddleware"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/FileUploadMiddleware",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "FileUploadMiddleware"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "FileUploadMiddleware",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/fileuploadmiddleware"
+},
+"doc://App/documentation/App/FluentKit": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/FluentKit",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "FluentKit",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/fluentkit"
+},
+"doc://App/documentation/App/Foundation": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Foundation",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "Foundation",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/foundation"
+},
+"doc://App/documentation/App/Key": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Key"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Key",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Key"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Key",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/key"
+},
+"doc://App/documentation/App/KeyDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "KeyDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/KeyDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "KeyDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "KeyDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/keydto"
+},
+"doc://App/documentation/App/Livestream": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Livestream"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Livestream",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Livestream"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Livestream",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestream"
+},
+"doc://App/documentation/App/LivestreamController": {
+  "abstract" : [
+    {
+      "text" : "A controller that handles livestream-related routes.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "LivestreamController"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamController",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "LivestreamController"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "LivestreamController",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamcontroller"
+},
+"doc://App/documentation/App/LivestreamDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "LivestreamDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "LivestreamDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "LivestreamDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamdto"
+},
+"doc://App/documentation/App/LivestreamStreamType": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "LivestreamStreamType"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "LivestreamStreamType"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "LivestreamStreamType",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype"
+},
+"doc://App/documentation/App/LoginData": {
+  "abstract" : [
+    {
+      "text" : "A struct representing login data.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "LoginData"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LoginData",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "LoginData"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "LoginData",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/logindata"
+},
+"doc://App/documentation/App/NewsLetter": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "NewsLetter"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "NewsLetter"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter"
+},
+"doc://App/documentation/App/NewsLetterController": {
+  "abstract" : [
+    {
+      "text" : "A controller that handles newsletter-related routes.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "NewsLetterController"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetterController",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "NewsLetterController"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetterController",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newslettercontroller"
+},
+"doc://App/documentation/App/NewsLetterDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "NewsLetterDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetterDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "NewsLetterDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetterDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletterdto"
+},
+"doc://App/documentation/App/Permission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Permission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Permission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Permission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission"
+},
+"doc://App/documentation/App/PermissionCheck": {
+  "abstract" : [
+    {
+      "code" : "PermissionCheck",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " enum to define the type of permission check to perform.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "PermissionCheck"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/PermissionCheck",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "PermissionCheck"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "PermissionCheck",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permissioncheck"
+},
+"doc://App/documentation/App/Provider": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Provider"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Provider",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Provider"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Provider",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/provider"
+},
+"doc://App/documentation/App/RBACMiddleware": {
+  "abstract" : [
+    {
+      "text" : "Middleware that performs role-based access control (RBAC) by checking the permissions of the authenticated user.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "RBACMiddleware"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RBACMiddleware",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "RBACMiddleware"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "RBACMiddleware",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rbacmiddleware"
+},
+"doc://App/documentation/App/RestreamToken": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "RestreamToken"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RestreamToken",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "RestreamToken"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "RestreamToken",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/restreamtoken"
+},
+"doc://App/documentation/App/RolePermission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "RolePermission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RolePermission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "RolePermission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "RolePermission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rolepermission"
+},
+"doc://App/documentation/App/Roles": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Roles"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Roles",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Roles"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Roles",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/roles"
+},
+"doc://App/documentation/App/SeedKeys": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "SeedKeys"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/SeedKeys",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "SeedKeys"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "SeedKeys",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/seedkeys"
+},
+"doc://App/documentation/App/SeedRolePermission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "SeedRolePermission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/SeedRolePermission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "SeedRolePermission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "SeedRolePermission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/seedrolepermission"
+},
+"doc://App/documentation/App/SeedUser": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "SeedUser"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/SeedUser",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "SeedUser"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "SeedUser",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/seeduser"
+},
+"doc://App/documentation/App/SeedUserRolePermission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "SeedUserRolePermission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/SeedUserRolePermission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "SeedUserRolePermission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "SeedUserRolePermission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/seeduserrolepermission"
+},
+"doc://App/documentation/App/Status": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Status"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Status",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Status"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Status",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/status"
+},
+"doc://App/documentation/App/StorageType": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "StorageType"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/StorageType",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "StorageType"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "StorageType",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/storagetype"
+},
+"doc://App/documentation/App/Todo": {
+  "abstract" : [
+    {
+      "text" : "Property wrappers interact poorly with ",
+      "type" : "text"
+    },
+    {
+      "code" : "Sendable",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " checking, causing a warning for the ",
+      "type" : "text"
+    },
+    {
+      "code" : "@ID",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " property",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "It is recommended you write your model with sendability checking on and then suppress the warning",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "afterwards with ",
+      "type" : "text"
+    },
+    {
+      "code" : "@unchecked Sendable",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : ".",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Todo"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Todo",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Todo"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Todo",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/todo"
+},
+"doc://App/documentation/App/TodoDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "TodoDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TodoDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "TodoDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "TodoDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tododto"
+},
+"doc://App/documentation/App/Token": {
+  "abstract" : [
+    {
+      "text" : "Property wrappers interact poorly with ",
+      "type" : "text"
+    },
+    {
+      "code" : "Sendable",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " checking, causing a warning for the ",
+      "type" : "text"
+    },
+    {
+      "code" : "@ID",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " property",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "It is recommended you write your model with sendability checking on and then suppress the warning",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "afterwards with ",
+      "type" : "text"
+    },
+    {
+      "code" : "@unchecked Sendable",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : ".",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Token"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Token",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Token"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Token",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/token"
+},
+"doc://App/documentation/App/TokenAuthenticator": {
+  "abstract" : [
+    {
+      "text" : "A struct that handles bearer token authentication.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "TokenAuthenticator"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenAuthenticator",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "TokenAuthenticator"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "TokenAuthenticator",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokenauthenticator"
+},
+"doc://App/documentation/App/TokenDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "TokenDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "TokenDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "TokenDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto"
+},
+"doc://App/documentation/App/TokenStatus": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "TokenStatus"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenStatus",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "TokenStatus"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "TokenStatus",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokenstatus"
+},
+"doc://App/documentation/App/User": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "User"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/User",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "User"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "User",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/user"
+},
+"doc://App/documentation/App/UserDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "UserDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "UserDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userdto"
+},
+"doc://App/documentation/App/UserPayload": {
+  "abstract" : [
+    {
+      "text" : "A struct representing the payload of a JWT token for a user.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "UserPayload"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "UserPayload"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserPayload",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload"
+},
+"doc://App/documentation/App/UserResponse": {
+  "abstract" : [
+    {
+      "text" : "A struct representing a user response.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "UserResponse"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserResponse",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "UserResponse"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserResponse",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userresponse"
+},
+"doc://App/documentation/App/UserRolePermission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "UserRolePermission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "UserRolePermission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission"
+},
+"doc://App/documentation/App/UsersController": {
+  "abstract" : [
+    {
+      "text" : "A controller that handles user-related routes.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "UsersController"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UsersController",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "UsersController"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UsersController",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userscontroller"
+},
+"doc://App/documentation/App/Vapor": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Vapor",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "Vapor",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/vapor"
+},
+"doc://App/documentation/App/configure(_:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "configure"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor11ApplicationC",
+      "text" : "Application"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/configure(_:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "configure(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/configure(_:)"
+},
+"doc://App/documentation/App/routes(_:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "routes"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor11ApplicationC",
+      "text" : "Application"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/routes(_:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "routes(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/routes(_:)"
+}
+}
+}

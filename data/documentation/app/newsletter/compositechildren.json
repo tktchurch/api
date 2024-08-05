@@ -1,0 +1,290 @@
+{
+  "abstract" : [
+    {
+      "text" : "Inherited from ",
+      "type" : "text"
+    },
+    {
+      "code" : "Model.CompositeChildren",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : ".",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App",
+        "doc:\/\/App\/documentation\/App\/NewsLetter",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/Model-Implementations"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeChildren"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "extendedModule" : "FluentKit",
+    "externalID" : "s:9FluentKit5ModelPAAE17CompositeChildrena::SYNTHESIZED::s:3App10NewsLetterC",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "typealias"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "CompositeChildren"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App",
+        "relatedModules" : [
+          "FluentKit"
+        ]
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "CompositeChildren"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "CompositeChildren.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/.build\/checkouts\/fluent-kit\/Sources\/FluentKit\/Properties\/CompositeChildren.swift#L6"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Type Alias",
+    "symbolKind" : "typealias",
+    "title" : "NewsLetter.CompositeChildren"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "typealias"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "CompositeChildren"
+            },
+            {
+              "kind" : "text",
+              "text" : "<"
+            },
+            {
+              "kind" : "genericParameter",
+              "text" : "To"
+            },
+            {
+              "kind" : "text",
+              "text" : "> = "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:9FluentKit25CompositeChildrenPropertyC",
+              "text" : "CompositeChildrenProperty"
+            },
+            {
+              "kind" : "text",
+              "text" : "<"
+            },
+            {
+              "kind" : "typeIdentifier",
+              "text" : "Self"
+            },
+            {
+              "kind" : "text",
+              "text" : ", "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "text" : "To"
+            },
+            {
+              "kind" : "text",
+              "text" : "> "
+            },
+            {
+              "kind" : "keyword",
+              "text" : "where"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "text" : "To"
+            },
+            {
+              "kind" : "text",
+              "text" : " : "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:9FluentKit5ModelP",
+              "text" : "Model"
+            },
+            {
+              "kind" : "text",
+              "text" : ", "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "text" : "Self"
+            },
+            {
+              "kind" : "text",
+              "text" : "."
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:9FluentKit5ModelP7IDValueQa",
+              "text" : "IDValue"
+            },
+            {
+              "kind" : "text",
+              "text" : " : "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:9FluentKit6FieldsP",
+              "text" : "Fields"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/newsletter\/compositechildren"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/NewsLetter": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "NewsLetter"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "NewsLetter"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter"
+},
+"doc://App/documentation/App/NewsLetter/CompositeChildren": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeChildren"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeChildren",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeChildren"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.CompositeChildren",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/compositechildren"
+},
+"doc://App/documentation/App/NewsLetter/Model-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/Model-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Model Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/model-implementations"
+}
+}
+}

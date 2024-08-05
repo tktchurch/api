@@ -1,0 +1,333 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App",
+        "doc:\/\/App\/documentation\/App\/Vapor"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/Vapor\/RoutesBuilder"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "extendedModule" : "Vapor",
+    "externalID" : "s:e:s:5Vapor13RoutesBuilderP3AppE7grouped10requireAllAaB_pAD10PermissionOd_tF",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "extension"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "preciseIdentifier" : "s:5Vapor13RoutesBuilderP",
+        "text" : "RoutesBuilder"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App",
+        "relatedModules" : [
+          "Vapor"
+        ]
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "RoutesBuilder"
+      }
+    ],
+    "role" : "symbol",
+    "roleHeading" : "Extended Protocol",
+    "symbolKind" : "extension",
+    "title" : "RoutesBuilder"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "extension"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:5Vapor13RoutesBuilderP",
+              "text" : "RoutesBuilder"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/Vapor\/RoutesBuilder\/grouped(customCheck:)",
+        "doc:\/\/App\/documentation\/App\/Vapor\/RoutesBuilder\/grouped(requireAll:)",
+        "doc:\/\/App\/documentation\/App\/Vapor\/RoutesBuilder\/grouped(requireAny:)"
+      ],
+      "title" : "Instance Methods"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/vapor\/routesbuilder"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/Vapor": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Vapor",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "Vapor",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/vapor"
+},
+"doc://App/documentation/App/Vapor/RoutesBuilder": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "extension"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "preciseIdentifier" : "s:5Vapor13RoutesBuilderP",
+      "text" : "RoutesBuilder"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Vapor\/RoutesBuilder",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "RoutesBuilder"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "RoutesBuilder",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/vapor\/routesbuilder"
+},
+"doc://App/documentation/App/Vapor/RoutesBuilder/grouped(customCheck:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "grouped"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "customCheck"
+    },
+    {
+      "kind" : "text",
+      "text" : ": (["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App10PermissionO",
+      "text" : "Permission"
+    },
+    {
+      "kind" : "text",
+      "text" : "]) -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor13RoutesBuilderP",
+      "text" : "RoutesBuilder"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Vapor\/RoutesBuilder\/grouped(customCheck:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "grouped(customCheck:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/vapor\/routesbuilder\/grouped(customcheck:)"
+},
+"doc://App/documentation/App/Vapor/RoutesBuilder/grouped(requireAll:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "grouped"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "requireAll"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App10PermissionO",
+      "text" : "Permission"
+    },
+    {
+      "kind" : "text",
+      "text" : "...) -> any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor13RoutesBuilderP",
+      "text" : "RoutesBuilder"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Vapor\/RoutesBuilder\/grouped(requireAll:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "grouped(requireAll:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/vapor\/routesbuilder\/grouped(requireall:)"
+},
+"doc://App/documentation/App/Vapor/RoutesBuilder/grouped(requireAny:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "grouped"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "requireAny"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App10PermissionO",
+      "text" : "Permission"
+    },
+    {
+      "kind" : "text",
+      "text" : "...) -> any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor13RoutesBuilderP",
+      "text" : "RoutesBuilder"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Vapor\/RoutesBuilder\/grouped(requireAny:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "grouped(requireAny:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/vapor\/routesbuilder\/grouped(requireany:)"
+}
+}
+}

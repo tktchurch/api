@@ -1,0 +1,593 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/TokenDTO"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App8TokenDTOV",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "struct"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "TokenDTO"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "TokenDTO"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "TokenDTO.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/DTOs\/TokenDTO.swift#L4"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Structure",
+    "symbolKind" : "struct",
+    "title" : "TokenDTO"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "struct"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "TokenDTO"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/Se",
+        "doc:\/\/App\/SE",
+        "doc:\/\/App\/s8SendableP",
+        "doc:\/\/App\/5Vapor21AsyncRequestDecodableP",
+        "doc:\/\/App\/5Vapor22AsyncResponseEncodableP",
+        "doc:\/\/App\/5Vapor7ContentP",
+        "doc:\/\/App\/5Vapor16RequestDecodableP",
+        "doc:\/\/App\/5Vapor17ResponseEncodableP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TokenDTO\/init(accessToken:refreshToken:expires:)",
+        "doc:\/\/App\/documentation\/App\/TokenDTO\/init(from:)"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TokenDTO\/accessToken",
+        "doc:\/\/App\/documentation\/App\/TokenDTO\/expires",
+        "doc:\/\/App\/documentation\/App\/TokenDTO\/refreshToken"
+      ],
+      "title" : "Instance Properties"
+    },
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TokenDTO\/convertToPublic()",
+        "doc:\/\/App\/documentation\/App\/TokenDTO\/toModel()"
+      ],
+      "title" : "Instance Methods"
+    },
+    {
+      "anchor" : "Enumerations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TokenDTO\/CodingKeys"
+      ],
+      "title" : "Enumerations"
+    },
+    {
+      "anchor" : "Default-Implementations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TokenDTO\/Content-Implementations",
+        "doc:\/\/App\/documentation\/App\/TokenDTO\/ResponseEncodable-Implementations"
+      ],
+      "title" : "Default Implementations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/tokendto"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/5Vapor16RequestDecodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor16RequestDecodableP",
+  "title" : "Vapor.RequestDecodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor17ResponseEncodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor17ResponseEncodableP",
+  "title" : "Vapor.ResponseEncodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor21AsyncRequestDecodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor21AsyncRequestDecodableP",
+  "title" : "Vapor.AsyncRequestDecodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor22AsyncResponseEncodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor22AsyncResponseEncodableP",
+  "title" : "Vapor.AsyncResponseEncodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor7ContentP": {
+  "identifier" : "doc:\/\/App\/5Vapor7ContentP",
+  "title" : "Vapor.Content",
+  "type" : "unresolvable"
+},
+"doc://App/SE": {
+  "identifier" : "doc:\/\/App\/SE",
+  "title" : "Swift.Encodable",
+  "type" : "unresolvable"
+},
+"doc://App/Se": {
+  "identifier" : "doc:\/\/App\/Se",
+  "title" : "Swift.Decodable",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/TokenDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "TokenDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "TokenDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "TokenDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto"
+},
+"doc://App/documentation/App/TokenDTO/CodingKeys": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CodingKeys"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/CodingKeys",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CodingKeys"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "TokenDTO.CodingKeys",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/codingkeys"
+},
+"doc://App/documentation/App/TokenDTO/Content-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/Content-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Content Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/content-implementations"
+},
+"doc://App/documentation/App/TokenDTO/ResponseEncodable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/ResponseEncodable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "ResponseEncodable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/responseencodable-implementations"
+},
+"doc://App/documentation/App/TokenDTO/accessToken": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "accessToken"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/accessToken",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "accessToken",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/accesstoken"
+},
+"doc://App/documentation/App/TokenDTO/convertToPublic()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "convertToPublic"
+    },
+    {
+      "kind" : "text",
+      "text" : "() -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App8TokenDTOV",
+      "text" : "TokenDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/convertToPublic()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "convertToPublic()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/converttopublic()"
+},
+"doc://App/documentation/App/TokenDTO/expires": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "expires"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4DateV",
+      "text" : "Date"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/expires",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "expires",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/expires"
+},
+"doc://App/documentation/App/TokenDTO/init(accessToken:refreshToken:expires:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "accessToken"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "refreshToken"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "?, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "expires"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4DateV",
+      "text" : "Date"
+    },
+    {
+      "kind" : "text",
+      "text" : "?)"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/init(accessToken:refreshToken:expires:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(accessToken:refreshToken:expires:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/init(accesstoken:refreshtoken:expires:)"
+},
+"doc://App/documentation/App/TokenDTO/init(from:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "from"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s7DecoderP",
+      "text" : "Decoder"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/init(from:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(from:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/init(from:)"
+},
+"doc://App/documentation/App/TokenDTO/refreshToken": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "refreshToken"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/refreshToken",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "refreshToken",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/refreshtoken"
+},
+"doc://App/documentation/App/TokenDTO/toModel()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "toModel"
+    },
+    {
+      "kind" : "text",
+      "text" : "() -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App5TokenC",
+      "text" : "Token"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenDTO\/toModel()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "toModel()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokendto\/tomodel()"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

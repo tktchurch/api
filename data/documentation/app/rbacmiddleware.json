@@ -1,0 +1,388 @@
+{
+  "abstract" : [
+    {
+      "text" : "Middleware that performs role-based access control (RBAC) by checking the permissions of the authenticated user.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/RBACMiddleware"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App14RBACMiddlewareV",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "struct"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "RBACMiddleware"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "RBACMiddleware"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "RBACMiddleware.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Middlewares\/RBACMiddleware.swift#L29"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Structure",
+    "symbolKind" : "struct",
+    "title" : "RBACMiddleware"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "struct"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "RBACMiddleware"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/s8SendableP",
+        "doc:\/\/App\/5Vapor15AsyncMiddlewareP",
+        "doc:\/\/App\/5Vapor10MiddlewareP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/RBACMiddleware\/init(_:)"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/RBACMiddleware\/permissionCheck"
+      ],
+      "title" : "Instance Properties"
+    },
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/RBACMiddleware\/respond(to:chainingTo:)-2jgfe"
+      ],
+      "title" : "Instance Methods"
+    },
+    {
+      "anchor" : "Default-Implementations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/RBACMiddleware\/AsyncMiddleware-Implementations",
+        "doc:\/\/App\/documentation\/App\/RBACMiddleware\/Middleware-Implementations"
+      ],
+      "title" : "Default Implementations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/rbacmiddleware"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/5Vapor10MiddlewareP": {
+  "identifier" : "doc:\/\/App\/5Vapor10MiddlewareP",
+  "title" : "Vapor.Middleware",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor15AsyncMiddlewareP": {
+  "identifier" : "doc:\/\/App\/5Vapor15AsyncMiddlewareP",
+  "title" : "Vapor.AsyncMiddleware",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/RBACMiddleware": {
+  "abstract" : [
+    {
+      "text" : "Middleware that performs role-based access control (RBAC) by checking the permissions of the authenticated user.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "RBACMiddleware"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RBACMiddleware",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "RBACMiddleware"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "RBACMiddleware",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rbacmiddleware"
+},
+"doc://App/documentation/App/RBACMiddleware/AsyncMiddleware-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RBACMiddleware\/AsyncMiddleware-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "AsyncMiddleware Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rbacmiddleware\/asyncmiddleware-implementations"
+},
+"doc://App/documentation/App/RBACMiddleware/Middleware-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RBACMiddleware\/Middleware-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Middleware Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rbacmiddleware\/middleware-implementations"
+},
+"doc://App/documentation/App/RBACMiddleware/init(_:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App15PermissionCheckO",
+      "text" : "PermissionCheck"
+    },
+    {
+      "kind" : "text",
+      "text" : ")"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RBACMiddleware\/init(_:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rbacmiddleware\/init(_:)"
+},
+"doc://App/documentation/App/RBACMiddleware/permissionCheck": {
+  "abstract" : [
+    {
+      "text" : "The permission check to perform.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "let"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "permissionCheck"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App15PermissionCheckO",
+      "text" : "PermissionCheck"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RBACMiddleware\/permissionCheck",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "permissionCheck",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rbacmiddleware\/permissioncheck"
+},
+"doc://App/documentation/App/RBACMiddleware/respond(to:chainingTo:)-2jgfe": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "respond"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "to"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor7RequestC",
+      "text" : "Request"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "chainingTo"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor14AsyncResponderP",
+      "text" : "AsyncResponder"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor8ResponseC",
+      "text" : "Response"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/RBACMiddleware\/respond(to:chainingTo:)-2jgfe",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "respond(to:chainingTo:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/rbacmiddleware\/respond(to:chainingto:)-2jgfe"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

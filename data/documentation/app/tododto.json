@@ -1,0 +1,489 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/TodoDTO"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App7TodoDTOV",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "struct"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "TodoDTO"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "TodoDTO"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "TodoDTO.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/DTOs\/TodoDTO.swift#L4"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Structure",
+    "symbolKind" : "struct",
+    "title" : "TodoDTO"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "struct"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "TodoDTO"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/Se",
+        "doc:\/\/App\/SE",
+        "doc:\/\/App\/s8SendableP",
+        "doc:\/\/App\/5Vapor21AsyncRequestDecodableP",
+        "doc:\/\/App\/5Vapor22AsyncResponseEncodableP",
+        "doc:\/\/App\/5Vapor7ContentP",
+        "doc:\/\/App\/5Vapor16RequestDecodableP",
+        "doc:\/\/App\/5Vapor17ResponseEncodableP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TodoDTO\/init()",
+        "doc:\/\/App\/documentation\/App\/TodoDTO\/init(from:)",
+        "doc:\/\/App\/documentation\/App\/TodoDTO\/init(id:title:)"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TodoDTO\/id",
+        "doc:\/\/App\/documentation\/App\/TodoDTO\/title"
+      ],
+      "title" : "Instance Properties"
+    },
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TodoDTO\/toModel()"
+      ],
+      "title" : "Instance Methods"
+    },
+    {
+      "anchor" : "Default-Implementations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TodoDTO\/Content-Implementations",
+        "doc:\/\/App\/documentation\/App\/TodoDTO\/ResponseEncodable-Implementations"
+      ],
+      "title" : "Default Implementations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/tododto"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/5Vapor16RequestDecodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor16RequestDecodableP",
+  "title" : "Vapor.RequestDecodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor17ResponseEncodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor17ResponseEncodableP",
+  "title" : "Vapor.ResponseEncodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor21AsyncRequestDecodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor21AsyncRequestDecodableP",
+  "title" : "Vapor.AsyncRequestDecodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor22AsyncResponseEncodableP": {
+  "identifier" : "doc:\/\/App\/5Vapor22AsyncResponseEncodableP",
+  "title" : "Vapor.AsyncResponseEncodable",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor7ContentP": {
+  "identifier" : "doc:\/\/App\/5Vapor7ContentP",
+  "title" : "Vapor.Content",
+  "type" : "unresolvable"
+},
+"doc://App/SE": {
+  "identifier" : "doc:\/\/App\/SE",
+  "title" : "Swift.Encodable",
+  "type" : "unresolvable"
+},
+"doc://App/Se": {
+  "identifier" : "doc:\/\/App\/Se",
+  "title" : "Swift.Decodable",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/TodoDTO": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "TodoDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TodoDTO",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "TodoDTO"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "TodoDTO",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tododto"
+},
+"doc://App/documentation/App/TodoDTO/Content-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TodoDTO\/Content-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Content Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tododto\/content-implementations"
+},
+"doc://App/documentation/App/TodoDTO/ResponseEncodable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TodoDTO\/ResponseEncodable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "ResponseEncodable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tododto\/responseencodable-implementations"
+},
+"doc://App/documentation/App/TodoDTO/id": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "id"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4UUIDV",
+      "text" : "UUID"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TodoDTO\/id",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "id",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tododto\/id"
+},
+"doc://App/documentation/App/TodoDTO/init()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "()"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TodoDTO\/init()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tododto\/init()"
+},
+"doc://App/documentation/App/TodoDTO/init(from:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "from"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s7DecoderP",
+      "text" : "Decoder"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TodoDTO\/init(from:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(from:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tododto\/init(from:)"
+},
+"doc://App/documentation/App/TodoDTO/init(id:title:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "id"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:10Foundation4UUIDV",
+      "text" : "UUID"
+    },
+    {
+      "kind" : "text",
+      "text" : "?, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "title"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "?)"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TodoDTO\/init(id:title:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(id:title:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tododto\/init(id:title:)"
+},
+"doc://App/documentation/App/TodoDTO/title": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "title"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TodoDTO\/title",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "title",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tododto\/title"
+},
+"doc://App/documentation/App/TodoDTO/toModel()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "toModel"
+    },
+    {
+      "kind" : "text",
+      "text" : "() -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App4TodoC",
+      "text" : "Todo"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TodoDTO\/toModel()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "toModel()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tododto\/tomodel()"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

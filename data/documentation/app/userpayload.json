@@ -1,0 +1,709 @@
+{
+  "abstract" : [
+    {
+      "text" : "A struct representing the payload of a JWT token for a user.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/UserPayload"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App11UserPayloadV",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "struct"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "UserPayload"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "UserPayload"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "Token+Ext.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Extenstions\/Token+Ext.swift#L8"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Structure",
+    "symbolKind" : "struct",
+    "title" : "UserPayload"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "struct"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "UserPayload"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/6JWTKit10JWTPayloadP",
+        "doc:\/\/App\/Se",
+        "doc:\/\/App\/SE",
+        "doc:\/\/App\/s8SendableP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/UserPayload\/init(from:)",
+        "doc:\/\/App\/documentation\/App\/UserPayload\/init(scope:subject:expiration:issuedAt:issuer:aud:)"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/UserPayload\/aud",
+        "doc:\/\/App\/documentation\/App\/UserPayload\/expiration",
+        "doc:\/\/App\/documentation\/App\/UserPayload\/issuedAt",
+        "doc:\/\/App\/documentation\/App\/UserPayload\/issuer",
+        "doc:\/\/App\/documentation\/App\/UserPayload\/scope",
+        "doc:\/\/App\/documentation\/App\/UserPayload\/subject"
+      ],
+      "title" : "Instance Properties"
+    },
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/UserPayload\/verify(using:)"
+      ],
+      "title" : "Instance Methods"
+    },
+    {
+      "anchor" : "Enumerations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/UserPayload\/CodingKeys"
+      ],
+      "title" : "Enumerations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/userpayload"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/6JWTKit10JWTPayloadP": {
+  "identifier" : "doc:\/\/App\/6JWTKit10JWTPayloadP",
+  "title" : "JWTKit.JWTPayload",
+  "type" : "unresolvable"
+},
+"doc://App/SE": {
+  "identifier" : "doc:\/\/App\/SE",
+  "title" : "Swift.Encodable",
+  "type" : "unresolvable"
+},
+"doc://App/Se": {
+  "identifier" : "doc:\/\/App\/Se",
+  "title" : "Swift.Decodable",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/UserPayload": {
+  "abstract" : [
+    {
+      "text" : "A struct representing the payload of a JWT token for a user.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "UserPayload"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "UserPayload"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserPayload",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload"
+},
+"doc://App/documentation/App/UserPayload/CodingKeys": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CodingKeys"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload\/CodingKeys",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CodingKeys"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserPayload.CodingKeys",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload\/codingkeys"
+},
+"doc://App/documentation/App/UserPayload/aud": {
+  "abstract" : [
+    {
+      "text" : "The audience claim of the token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "aud"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit13AudienceClaimV",
+      "text" : "AudienceClaim"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload\/aud",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "aud",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload\/aud"
+},
+"doc://App/documentation/App/UserPayload/expiration": {
+  "abstract" : [
+    {
+      "text" : "The expiration claim of the token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "expiration"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit15ExpirationClaimV",
+      "text" : "ExpirationClaim"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload\/expiration",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "expiration",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload\/expiration"
+},
+"doc://App/documentation/App/UserPayload/init(from:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "from"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s7DecoderP",
+      "text" : "Decoder"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload\/init(from:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(from:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload\/init(from:)"
+},
+"doc://App/documentation/App/UserPayload/init(scope:subject:expiration:issuedAt:issuer:aud:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "scope"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "subject"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit12SubjectClaimV",
+      "text" : "SubjectClaim"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "expiration"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit15ExpirationClaimV",
+      "text" : "ExpirationClaim"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "issuedAt"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit13IssuedAtClaimV",
+      "text" : "IssuedAtClaim"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "issuer"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit11IssuerClaimV",
+      "text" : "IssuerClaim"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "aud"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit13AudienceClaimV",
+      "text" : "AudienceClaim"
+    },
+    {
+      "kind" : "text",
+      "text" : "?)"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload\/init(scope:subject:expiration:issuedAt:issuer:aud:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(scope:subject:expiration:issuedAt:issuer:aud:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload\/init(scope:subject:expiration:issuedat:issuer:aud:)"
+},
+"doc://App/documentation/App/UserPayload/issuedAt": {
+  "abstract" : [
+    {
+      "text" : "The issued at claim of the token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "issuedAt"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit13IssuedAtClaimV",
+      "text" : "IssuedAtClaim"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload\/issuedAt",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "issuedAt",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload\/issuedat"
+},
+"doc://App/documentation/App/UserPayload/issuer": {
+  "abstract" : [
+    {
+      "text" : "The issuer claim of the token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "issuer"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit11IssuerClaimV",
+      "text" : "IssuerClaim"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload\/issuer",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "issuer",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload\/issuer"
+},
+"doc://App/documentation/App/UserPayload/scope": {
+  "abstract" : [
+    {
+      "text" : "The scope of the token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "let"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "scope"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload\/scope",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "scope",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload\/scope"
+},
+"doc://App/documentation/App/UserPayload/subject": {
+  "abstract" : [
+    {
+      "text" : "The subject claim of the token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "subject"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit12SubjectClaimV",
+      "text" : "SubjectClaim"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload\/subject",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "subject",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload\/subject"
+},
+"doc://App/documentation/App/UserPayload/verify(using:)": {
+  "abstract" : [
+    {
+      "text" : "Verifies the token’s expiration.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "verify"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "using"
+    },
+    {
+      "kind" : "text",
+      "text" : ": some "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:6JWTKit12JWTAlgorithmP",
+      "text" : "JWTAlgorithm"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserPayload\/verify(using:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "verify(using:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userpayload\/verify(using:)"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

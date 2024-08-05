@@ -1,0 +1,1253 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/Model-Implementations"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "role" : "collectionGroup",
+    "roleHeading" : "API Collection",
+    "title" : "Model Implementations"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/_$id",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/_$idExists"
+      ],
+      "title" : "Instance Properties"
+    },
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/create(on:)",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/delete(force:on:)",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/requireID()",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/restore(on:)",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/save(on:)",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/update(on:)"
+      ],
+      "title" : "Instance Methods"
+    },
+    {
+      "anchor" : "Type-Aliases",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/Children",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/CompositeChildren",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/CompositeID",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/CompositeOptionalChild",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/CompositeOptionalParent",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/CompositeParent",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/ID-swift.typealias",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/OptionalChild",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/OptionalParent",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/Parent",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/Siblings",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/Timestamp"
+      ],
+      "title" : "Type Aliases"
+    },
+    {
+      "anchor" : "Type-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/find(_:on:)-1ecoq",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/find(_:on:)-2pkux",
+        "doc:\/\/App\/documentation\/App\/UserRolePermission\/query(on:)"
+      ],
+      "title" : "Type Methods"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/userrolepermission\/model-implementations"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/UserRolePermission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "UserRolePermission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "UserRolePermission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission"
+},
+"doc://App/documentation/App/UserRolePermission/Children": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Children"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/Children",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Children"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.Children",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/children"
+},
+"doc://App/documentation/App/UserRolePermission/CompositeChildren": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeChildren"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/CompositeChildren",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeChildren"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.CompositeChildren",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/compositechildren"
+},
+"doc://App/documentation/App/UserRolePermission/CompositeID": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeID"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/CompositeID",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeID"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.CompositeID",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/compositeid"
+},
+"doc://App/documentation/App/UserRolePermission/CompositeOptionalChild": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeOptionalChild"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/CompositeOptionalChild",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeOptionalChild"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.CompositeOptionalChild",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/compositeoptionalchild"
+},
+"doc://App/documentation/App/UserRolePermission/CompositeOptionalParent": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeOptionalParent"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/CompositeOptionalParent",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeOptionalParent"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.CompositeOptionalParent",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/compositeoptionalparent"
+},
+"doc://App/documentation/App/UserRolePermission/CompositeParent": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeParent"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/CompositeParent",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeParent"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.CompositeParent",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/compositeparent"
+},
+"doc://App/documentation/App/UserRolePermission/ID-swift.typealias": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "ID"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/ID-swift.typealias",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "ID"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.ID",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/id-swift.typealias"
+},
+"doc://App/documentation/App/UserRolePermission/OptionalChild": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "OptionalChild"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/OptionalChild",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "OptionalChild"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.OptionalChild",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/optionalchild"
+},
+"doc://App/documentation/App/UserRolePermission/OptionalParent": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "OptionalParent"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/OptionalParent",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "OptionalParent"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.OptionalParent",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/optionalparent"
+},
+"doc://App/documentation/App/UserRolePermission/Parent": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Parent"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/Parent",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Parent"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.Parent",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/parent"
+},
+"doc://App/documentation/App/UserRolePermission/Siblings": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Siblings"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/Siblings",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Siblings"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.Siblings",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/siblings"
+},
+"doc://App/documentation/App/UserRolePermission/Timestamp": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Timestamp"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/Timestamp",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Timestamp"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "UserRolePermission.Timestamp",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/timestamp"
+},
+"doc://App/documentation/App/UserRolePermission/_$id": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "_$id"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit5ModelPAAE2IDa",
+      "text" : "ID"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit5ModelP7IDValueQa",
+      "text" : "IDValue"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/_$id",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "_$id",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/_$id"
+},
+"doc://App/documentation/App/UserRolePermission/_$idExists": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "_$idExists"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/_$idExists",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "_$idExists",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/_$idexists"
+},
+"doc://App/documentation/App/UserRolePermission/create(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "create"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/create(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "create(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/create(on:)"
+},
+"doc://App/documentation/App/UserRolePermission/delete(force:on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "delete"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "force"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/delete(force:on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "delete(force:on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/delete(force:on:)"
+},
+"doc://App/documentation/App/UserRolePermission/find(_:on:)-1ecoq": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "find"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit5ModelP7IDValueQa",
+      "text" : "IDValue"
+    },
+    {
+      "kind" : "text",
+      "text" : "?, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "?>"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/find(_:on:)-1ecoq",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "find(_:on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/find(_:on:)-1ecoq"
+},
+"doc://App/documentation/App/UserRolePermission/find(_:on:)-2pkux": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "find"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit5ModelP7IDValueQa",
+      "text" : "IDValue"
+    },
+    {
+      "kind" : "text",
+      "text" : "?, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/find(_:on:)-2pkux",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "find(_:on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/find(_:on:)-2pkux"
+},
+"doc://App/documentation/App/UserRolePermission/query(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "query"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit12QueryBuilderC",
+      "text" : "QueryBuilder"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/query(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "query(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/query(on:)"
+},
+"doc://App/documentation/App/UserRolePermission/requireID()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "requireID"
+    },
+    {
+      "kind" : "text",
+      "text" : "() "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit5ModelP7IDValueQa",
+      "text" : "IDValue"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/requireID()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "requireID()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/requireid()"
+},
+"doc://App/documentation/App/UserRolePermission/restore(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "restore"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/restore(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "restore(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/restore(on:)"
+},
+"doc://App/documentation/App/UserRolePermission/save(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "save"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/save(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "save(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/save(on:)"
+},
+"doc://App/documentation/App/UserRolePermission/update(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "update"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/UserRolePermission\/update(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "update(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/userrolepermission\/update(on:)"
+}
+}
+}

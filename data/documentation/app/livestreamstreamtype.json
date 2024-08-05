@@ -1,0 +1,385 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App20LivestreamStreamTypeO",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "enum"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "LivestreamStreamType"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "LivestreamStreamType"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "Livestream.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Models\/Livestream.swift#L11"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Enumeration",
+    "symbolKind" : "enum",
+    "title" : "LivestreamStreamType"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "enum"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "LivestreamStreamType"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/s15BitwiseCopyableP",
+        "doc:\/\/App\/Se",
+        "doc:\/\/App\/SE",
+        "doc:\/\/App\/SQ",
+        "doc:\/\/App\/SH",
+        "doc:\/\/App\/SY",
+        "doc:\/\/App\/s8SendableP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Enumeration-Cases",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/other",
+        "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/twitch",
+        "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/vimeo",
+        "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/youtube"
+      ],
+      "title" : "Enumeration Cases"
+    },
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/init(rawValue:)"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Default-Implementations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/Equatable-Implementations",
+        "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/RawRepresentable-Implementations"
+      ],
+      "title" : "Default Implementations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/livestreamstreamtype"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/SE": {
+  "identifier" : "doc:\/\/App\/SE",
+  "title" : "Swift.Encodable",
+  "type" : "unresolvable"
+},
+"doc://App/SH": {
+  "identifier" : "doc:\/\/App\/SH",
+  "title" : "Swift.Hashable",
+  "type" : "unresolvable"
+},
+"doc://App/SQ": {
+  "identifier" : "doc:\/\/App\/SQ",
+  "title" : "Swift.Equatable",
+  "type" : "unresolvable"
+},
+"doc://App/SY": {
+  "identifier" : "doc:\/\/App\/SY",
+  "title" : "Swift.RawRepresentable",
+  "type" : "unresolvable"
+},
+"doc://App/Se": {
+  "identifier" : "doc:\/\/App\/Se",
+  "title" : "Swift.Decodable",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/LivestreamStreamType": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "LivestreamStreamType"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "LivestreamStreamType"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "LivestreamStreamType",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype"
+},
+"doc://App/documentation/App/LivestreamStreamType/Equatable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/Equatable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Equatable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype\/equatable-implementations"
+},
+"doc://App/documentation/App/LivestreamStreamType/RawRepresentable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/RawRepresentable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "RawRepresentable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype\/rawrepresentable-implementations"
+},
+"doc://App/documentation/App/LivestreamStreamType/init(rawValue:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "?("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "rawValue"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : ")"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/init(rawValue:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(rawValue:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype\/init(rawvalue:)"
+},
+"doc://App/documentation/App/LivestreamStreamType/other": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "other"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/other",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "LivestreamStreamType.other",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype\/other"
+},
+"doc://App/documentation/App/LivestreamStreamType/twitch": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "twitch"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/twitch",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "LivestreamStreamType.twitch",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype\/twitch"
+},
+"doc://App/documentation/App/LivestreamStreamType/vimeo": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "vimeo"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/vimeo",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "LivestreamStreamType.vimeo",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype\/vimeo"
+},
+"doc://App/documentation/App/LivestreamStreamType/youtube": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "youtube"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/LivestreamStreamType\/youtube",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "LivestreamStreamType.youtube",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/livestreamstreamtype\/youtube"
+},
+"doc://App/s15BitwiseCopyableP": {
+  "identifier" : "doc:\/\/App\/s15BitwiseCopyableP",
+  "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

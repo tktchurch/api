@@ -1,0 +1,1253 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App",
+        "doc:\/\/App\/documentation\/App\/NewsLetter"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/NewsLetter\/Model-Implementations"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "role" : "collectionGroup",
+    "roleHeading" : "API Collection",
+    "title" : "Model Implementations"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Instance-Properties",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/_$id",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/_$idExists"
+      ],
+      "title" : "Instance Properties"
+    },
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/create(on:)",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/delete(force:on:)",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/requireID()",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/restore(on:)",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/save(on:)",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/update(on:)"
+      ],
+      "title" : "Instance Methods"
+    },
+    {
+      "anchor" : "Type-Aliases",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/Children",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeChildren",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeID",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeOptionalChild",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeOptionalParent",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeParent",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/ID-swift.typealias",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/OptionalChild",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/OptionalParent",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/Parent",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/Siblings",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/Timestamp"
+      ],
+      "title" : "Type Aliases"
+    },
+    {
+      "anchor" : "Type-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/find(_:on:)-1pqiw",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/find(_:on:)-29f6m",
+        "doc:\/\/App\/documentation\/App\/NewsLetter\/query(on:)"
+      ],
+      "title" : "Type Methods"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/newsletter\/model-implementations"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/NewsLetter": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "class"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "NewsLetter"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "NewsLetter"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter"
+},
+"doc://App/documentation/App/NewsLetter/Children": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Children"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/Children",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Children"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.Children",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/children"
+},
+"doc://App/documentation/App/NewsLetter/CompositeChildren": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeChildren"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeChildren",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeChildren"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.CompositeChildren",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/compositechildren"
+},
+"doc://App/documentation/App/NewsLetter/CompositeID": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeID"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeID",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeID"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.CompositeID",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/compositeid"
+},
+"doc://App/documentation/App/NewsLetter/CompositeOptionalChild": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeOptionalChild"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeOptionalChild",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeOptionalChild"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.CompositeOptionalChild",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/compositeoptionalchild"
+},
+"doc://App/documentation/App/NewsLetter/CompositeOptionalParent": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeOptionalParent"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeOptionalParent",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeOptionalParent"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.CompositeOptionalParent",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/compositeoptionalparent"
+},
+"doc://App/documentation/App/NewsLetter/CompositeParent": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "CompositeParent"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/CompositeParent",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "CompositeParent"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.CompositeParent",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/compositeparent"
+},
+"doc://App/documentation/App/NewsLetter/ID-swift.typealias": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "ID"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/ID-swift.typealias",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "ID"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.ID",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/id-swift.typealias"
+},
+"doc://App/documentation/App/NewsLetter/OptionalChild": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "OptionalChild"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/OptionalChild",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "OptionalChild"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.OptionalChild",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/optionalchild"
+},
+"doc://App/documentation/App/NewsLetter/OptionalParent": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "OptionalParent"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/OptionalParent",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "OptionalParent"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.OptionalParent",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/optionalparent"
+},
+"doc://App/documentation/App/NewsLetter/Parent": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Parent"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/Parent",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Parent"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.Parent",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/parent"
+},
+"doc://App/documentation/App/NewsLetter/Siblings": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Siblings"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/Siblings",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Siblings"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.Siblings",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/siblings"
+},
+"doc://App/documentation/App/NewsLetter/Timestamp": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Timestamp"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/Timestamp",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Timestamp"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "NewsLetter.Timestamp",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/timestamp"
+},
+"doc://App/documentation/App/NewsLetter/_$id": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "_$id"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit5ModelPAAE2IDa",
+      "text" : "ID"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit5ModelP7IDValueQa",
+      "text" : "IDValue"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/_$id",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "_$id",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/_$id"
+},
+"doc://App/documentation/App/NewsLetter/_$idExists": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "var"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "_$idExists"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/_$idExists",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "_$idExists",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/_$idexists"
+},
+"doc://App/documentation/App/NewsLetter/create(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "create"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/create(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "create(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/create(on:)"
+},
+"doc://App/documentation/App/NewsLetter/delete(force:on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "delete"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "force"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/delete(force:on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "delete(force:on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/delete(force:on:)"
+},
+"doc://App/documentation/App/NewsLetter/find(_:on:)-1pqiw": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "find"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit5ModelP7IDValueQa",
+      "text" : "IDValue"
+    },
+    {
+      "kind" : "text",
+      "text" : "?, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "?"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/find(_:on:)-1pqiw",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "find(_:on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/find(_:on:)-1pqiw"
+},
+"doc://App/documentation/App/NewsLetter/find(_:on:)-29f6m": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "find"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit5ModelP7IDValueQa",
+      "text" : "IDValue"
+    },
+    {
+      "kind" : "text",
+      "text" : "?, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "?>"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/find(_:on:)-29f6m",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "find(_:on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/find(_:on:)-29f6m"
+},
+"doc://App/documentation/App/NewsLetter/query(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "query"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit12QueryBuilderC",
+      "text" : "QueryBuilder"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/query(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "query(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/query(on:)"
+},
+"doc://App/documentation/App/NewsLetter/requireID()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "requireID"
+    },
+    {
+      "kind" : "text",
+      "text" : "() "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "text" : "Self"
+    },
+    {
+      "kind" : "text",
+      "text" : "."
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit5ModelP7IDValueQa",
+      "text" : "IDValue"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/requireID()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "requireID()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/requireid()"
+},
+"doc://App/documentation/App/NewsLetter/restore(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "restore"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/restore(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "restore(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/restore(on:)"
+},
+"doc://App/documentation/App/NewsLetter/save(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "save"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/save(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "save(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/save(on:)"
+},
+"doc://App/documentation/App/NewsLetter/update(on:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "update"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "on"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:9FluentKit8DatabaseP",
+      "text" : "Database"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:7NIOCore15EventLoopFutureC",
+      "text" : "EventLoopFuture"
+    },
+    {
+      "kind" : "text",
+      "text" : "<"
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s4Voida",
+      "text" : "Void"
+    },
+    {
+      "kind" : "text",
+      "text" : ">"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/NewsLetter\/update(on:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "update(on:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/newsletter\/update(on:)"
+}
+}
+}

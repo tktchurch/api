@@ -1,0 +1,1197 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/Permission"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App10PermissionO",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "enum"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "Permission"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "Permission"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "Permission.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Models\/Auth\/Permission.swift#L5"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Enumeration",
+    "symbolKind" : "enum",
+    "title" : "Permission"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "enum"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "Permission"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/s15BitwiseCopyableP",
+        "doc:\/\/App\/s12CaseIterableP",
+        "doc:\/\/App\/Se",
+        "doc:\/\/App\/SE",
+        "doc:\/\/App\/SQ",
+        "doc:\/\/App\/SH",
+        "doc:\/\/App\/SY",
+        "doc:\/\/App\/s8SendableP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Enumeration-Cases",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/Permission\/createCountries",
+        "doc:\/\/App\/documentation\/App\/Permission\/createEvents",
+        "doc:\/\/App\/documentation\/App\/Permission\/createLivestreams",
+        "doc:\/\/App\/documentation\/App\/Permission\/createNewsletters",
+        "doc:\/\/App\/documentation\/App\/Permission\/createPosts",
+        "doc:\/\/App\/documentation\/App\/Permission\/createRequests",
+        "doc:\/\/App\/documentation\/App\/Permission\/createTestimonials",
+        "doc:\/\/App\/documentation\/App\/Permission\/deleteCountries",
+        "doc:\/\/App\/documentation\/App\/Permission\/deleteEvents",
+        "doc:\/\/App\/documentation\/App\/Permission\/deleteLivestreams",
+        "doc:\/\/App\/documentation\/App\/Permission\/deleteNewsletters",
+        "doc:\/\/App\/documentation\/App\/Permission\/deletePosts",
+        "doc:\/\/App\/documentation\/App\/Permission\/deleteRequests",
+        "doc:\/\/App\/documentation\/App\/Permission\/deleteTestimonials",
+        "doc:\/\/App\/documentation\/App\/Permission\/manageCountries",
+        "doc:\/\/App\/documentation\/App\/Permission\/manageEvents",
+        "doc:\/\/App\/documentation\/App\/Permission\/manageLivestreams",
+        "doc:\/\/App\/documentation\/App\/Permission\/manageNewsletters",
+        "doc:\/\/App\/documentation\/App\/Permission\/managePosts",
+        "doc:\/\/App\/documentation\/App\/Permission\/manageRequests",
+        "doc:\/\/App\/documentation\/App\/Permission\/manageTestimonials",
+        "doc:\/\/App\/documentation\/App\/Permission\/readCountries",
+        "doc:\/\/App\/documentation\/App\/Permission\/readEvents",
+        "doc:\/\/App\/documentation\/App\/Permission\/readLivestreams",
+        "doc:\/\/App\/documentation\/App\/Permission\/readNewsletters",
+        "doc:\/\/App\/documentation\/App\/Permission\/readPosts",
+        "doc:\/\/App\/documentation\/App\/Permission\/readRequests",
+        "doc:\/\/App\/documentation\/App\/Permission\/readTestimonials",
+        "doc:\/\/App\/documentation\/App\/Permission\/updateCountries",
+        "doc:\/\/App\/documentation\/App\/Permission\/updateEvents",
+        "doc:\/\/App\/documentation\/App\/Permission\/updateLivestreams",
+        "doc:\/\/App\/documentation\/App\/Permission\/updateNewsletters",
+        "doc:\/\/App\/documentation\/App\/Permission\/updatePosts",
+        "doc:\/\/App\/documentation\/App\/Permission\/updateRequests",
+        "doc:\/\/App\/documentation\/App\/Permission\/updateTestimonials"
+      ],
+      "title" : "Enumeration Cases"
+    },
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/Permission\/init(rawValue:)"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Default-Implementations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/Permission\/Equatable-Implementations",
+        "doc:\/\/App\/documentation\/App\/Permission\/RawRepresentable-Implementations"
+      ],
+      "title" : "Default Implementations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/permission"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/SE": {
+  "identifier" : "doc:\/\/App\/SE",
+  "title" : "Swift.Encodable",
+  "type" : "unresolvable"
+},
+"doc://App/SH": {
+  "identifier" : "doc:\/\/App\/SH",
+  "title" : "Swift.Hashable",
+  "type" : "unresolvable"
+},
+"doc://App/SQ": {
+  "identifier" : "doc:\/\/App\/SQ",
+  "title" : "Swift.Equatable",
+  "type" : "unresolvable"
+},
+"doc://App/SY": {
+  "identifier" : "doc:\/\/App\/SY",
+  "title" : "Swift.RawRepresentable",
+  "type" : "unresolvable"
+},
+"doc://App/Se": {
+  "identifier" : "doc:\/\/App\/Se",
+  "title" : "Swift.Decodable",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/Permission": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "enum"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "Permission"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "Permission"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "Permission",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission"
+},
+"doc://App/documentation/App/Permission/Equatable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/Equatable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Equatable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/equatable-implementations"
+},
+"doc://App/documentation/App/Permission/RawRepresentable-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/RawRepresentable-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "RawRepresentable Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/rawrepresentable-implementations"
+},
+"doc://App/documentation/App/Permission/createCountries": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "createCountries"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/createCountries",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.createCountries",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/createcountries"
+},
+"doc://App/documentation/App/Permission/createEvents": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "createEvents"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/createEvents",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.createEvents",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/createevents"
+},
+"doc://App/documentation/App/Permission/createLivestreams": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "createLivestreams"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/createLivestreams",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.createLivestreams",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/createlivestreams"
+},
+"doc://App/documentation/App/Permission/createNewsletters": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "createNewsletters"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/createNewsletters",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.createNewsletters",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/createnewsletters"
+},
+"doc://App/documentation/App/Permission/createPosts": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "createPosts"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/createPosts",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.createPosts",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/createposts"
+},
+"doc://App/documentation/App/Permission/createRequests": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "createRequests"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/createRequests",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.createRequests",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/createrequests"
+},
+"doc://App/documentation/App/Permission/createTestimonials": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "createTestimonials"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/createTestimonials",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.createTestimonials",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/createtestimonials"
+},
+"doc://App/documentation/App/Permission/deleteCountries": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "deleteCountries"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/deleteCountries",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.deleteCountries",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/deletecountries"
+},
+"doc://App/documentation/App/Permission/deleteEvents": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "deleteEvents"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/deleteEvents",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.deleteEvents",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/deleteevents"
+},
+"doc://App/documentation/App/Permission/deleteLivestreams": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "deleteLivestreams"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/deleteLivestreams",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.deleteLivestreams",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/deletelivestreams"
+},
+"doc://App/documentation/App/Permission/deleteNewsletters": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "deleteNewsletters"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/deleteNewsletters",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.deleteNewsletters",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/deletenewsletters"
+},
+"doc://App/documentation/App/Permission/deletePosts": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "deletePosts"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/deletePosts",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.deletePosts",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/deleteposts"
+},
+"doc://App/documentation/App/Permission/deleteRequests": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "deleteRequests"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/deleteRequests",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.deleteRequests",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/deleterequests"
+},
+"doc://App/documentation/App/Permission/deleteTestimonials": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "deleteTestimonials"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/deleteTestimonials",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.deleteTestimonials",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/deletetestimonials"
+},
+"doc://App/documentation/App/Permission/init(rawValue:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "?("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "rawValue"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : ")"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/init(rawValue:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init(rawValue:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/init(rawvalue:)"
+},
+"doc://App/documentation/App/Permission/manageCountries": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "manageCountries"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/manageCountries",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.manageCountries",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/managecountries"
+},
+"doc://App/documentation/App/Permission/manageEvents": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "manageEvents"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/manageEvents",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.manageEvents",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/manageevents"
+},
+"doc://App/documentation/App/Permission/manageLivestreams": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "manageLivestreams"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/manageLivestreams",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.manageLivestreams",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/managelivestreams"
+},
+"doc://App/documentation/App/Permission/manageNewsletters": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "manageNewsletters"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/manageNewsletters",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.manageNewsletters",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/managenewsletters"
+},
+"doc://App/documentation/App/Permission/managePosts": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "managePosts"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/managePosts",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.managePosts",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/manageposts"
+},
+"doc://App/documentation/App/Permission/manageRequests": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "manageRequests"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/manageRequests",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.manageRequests",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/managerequests"
+},
+"doc://App/documentation/App/Permission/manageTestimonials": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "manageTestimonials"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/manageTestimonials",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.manageTestimonials",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/managetestimonials"
+},
+"doc://App/documentation/App/Permission/readCountries": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "readCountries"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/readCountries",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.readCountries",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/readcountries"
+},
+"doc://App/documentation/App/Permission/readEvents": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "readEvents"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/readEvents",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.readEvents",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/readevents"
+},
+"doc://App/documentation/App/Permission/readLivestreams": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "readLivestreams"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/readLivestreams",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.readLivestreams",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/readlivestreams"
+},
+"doc://App/documentation/App/Permission/readNewsletters": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "readNewsletters"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/readNewsletters",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.readNewsletters",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/readnewsletters"
+},
+"doc://App/documentation/App/Permission/readPosts": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "readPosts"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/readPosts",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.readPosts",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/readposts"
+},
+"doc://App/documentation/App/Permission/readRequests": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "readRequests"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/readRequests",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.readRequests",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/readrequests"
+},
+"doc://App/documentation/App/Permission/readTestimonials": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "readTestimonials"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/readTestimonials",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.readTestimonials",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/readtestimonials"
+},
+"doc://App/documentation/App/Permission/updateCountries": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "updateCountries"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/updateCountries",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.updateCountries",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/updatecountries"
+},
+"doc://App/documentation/App/Permission/updateEvents": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "updateEvents"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/updateEvents",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.updateEvents",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/updateevents"
+},
+"doc://App/documentation/App/Permission/updateLivestreams": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "updateLivestreams"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/updateLivestreams",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.updateLivestreams",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/updatelivestreams"
+},
+"doc://App/documentation/App/Permission/updateNewsletters": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "updateNewsletters"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/updateNewsletters",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.updateNewsletters",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/updatenewsletters"
+},
+"doc://App/documentation/App/Permission/updatePosts": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "updatePosts"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/updatePosts",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.updatePosts",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/updateposts"
+},
+"doc://App/documentation/App/Permission/updateRequests": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "updateRequests"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/updateRequests",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.updateRequests",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/updaterequests"
+},
+"doc://App/documentation/App/Permission/updateTestimonials": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "case"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "updateTestimonials"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/Permission\/updateTestimonials",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "Permission.updateTestimonials",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/permission\/updatetestimonials"
+},
+"doc://App/s12CaseIterableP": {
+  "identifier" : "doc:\/\/App\/s12CaseIterableP",
+  "title" : "Swift.CaseIterable",
+  "type" : "unresolvable"
+},
+"doc://App/s15BitwiseCopyableP": {
+  "identifier" : "doc:\/\/App\/s15BitwiseCopyableP",
+  "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

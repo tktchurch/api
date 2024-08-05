@@ -1,0 +1,524 @@
+{
+  "abstract" : [
+    {
+      "text" : "A controller responsible for handling authentication-related endpoints.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App25AuthenicationControllerV1V",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "struct"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "AuthenicationControllerV1"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "AuthenicationControllerV1"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "AuthenicationControllerV1.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Controllers\/AuthenicationControllerV1.swift#L8"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Structure",
+    "symbolKind" : "struct",
+    "title" : "AuthenicationControllerV1"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "struct"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "AuthenicationControllerV1"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/s15BitwiseCopyableP",
+        "doc:\/\/App\/s8SendableP",
+        "doc:\/\/App\/5Vapor15RouteCollectionP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/init()"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/boot(routes:)",
+        "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/enhancedLogoutHandler(_:)",
+        "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/loginHandler(_:)",
+        "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/loginWithProviderHandler(_:)",
+        "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/refreshHandler(_:)"
+      ],
+      "title" : "Instance Methods"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/authenicationcontrollerv1"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/5Vapor15RouteCollectionP": {
+  "identifier" : "doc:\/\/App\/5Vapor15RouteCollectionP",
+  "title" : "Vapor.RouteCollection",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/AuthenicationControllerV1": {
+  "abstract" : [
+    {
+      "text" : "A controller responsible for handling authentication-related endpoints.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "AuthenicationControllerV1"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "AuthenicationControllerV1"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "AuthenicationControllerV1",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/authenicationcontrollerv1"
+},
+"doc://App/documentation/App/AuthenicationControllerV1/boot(routes:)": {
+  "abstract" : [
+    {
+      "text" : "Boots the authentication routes.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "boot"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "routes"
+    },
+    {
+      "kind" : "text",
+      "text" : ": any "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor13RoutesBuilderP",
+      "text" : "RoutesBuilder"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/boot(routes:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "boot(routes:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/authenicationcontrollerv1\/boot(routes:)"
+},
+"doc://App/documentation/App/AuthenicationControllerV1/enhancedLogoutHandler(_:)": {
+  "abstract" : [
+    {
+      "text" : "Handles the enhanced logout request and revokes the token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "enhancedLogoutHandler"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor7RequestC",
+      "text" : "Request"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor10HTTPStatusa",
+      "text" : "HTTPStatus"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/enhancedLogoutHandler(_:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "enhancedLogoutHandler(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/authenicationcontrollerv1\/enhancedlogouthandler(_:)"
+},
+"doc://App/documentation/App/AuthenicationControllerV1/init()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "()"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/init()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/authenicationcontrollerv1\/init()"
+},
+"doc://App/documentation/App/AuthenicationControllerV1/loginHandler(_:)": {
+  "abstract" : [
+    {
+      "text" : "Handles the login request and returns a token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "loginHandler"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor7RequestC",
+      "text" : "Request"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App8TokenDTOV",
+      "text" : "TokenDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/loginHandler(_:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "loginHandler(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/authenicationcontrollerv1\/loginhandler(_:)"
+},
+"doc://App/documentation/App/AuthenicationControllerV1/loginWithProviderHandler(_:)": {
+  "abstract" : [
+    {
+      "text" : "Handles the login request using a provider and returns a token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "loginWithProviderHandler"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor7RequestC",
+      "text" : "Request"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App8TokenDTOV",
+      "text" : "TokenDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/loginWithProviderHandler(_:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "loginWithProviderHandler(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/authenicationcontrollerv1\/loginwithproviderhandler(_:)"
+},
+"doc://App/documentation/App/AuthenicationControllerV1/refreshHandler(_:)": {
+  "abstract" : [
+    {
+      "text" : "Handles the refresh token request and returns a new token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "refreshHandler"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor7RequestC",
+      "text" : "Request"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    },
+    {
+      "kind" : "text",
+      "text" : " -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:3App8TokenDTOV",
+      "text" : "TokenDTO"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/AuthenicationControllerV1\/refreshHandler(_:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "refreshHandler(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/authenicationcontrollerv1\/refreshhandler(_:)"
+},
+"doc://App/s15BitwiseCopyableP": {
+  "identifier" : "doc:\/\/App\/s15BitwiseCopyableP",
+  "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}

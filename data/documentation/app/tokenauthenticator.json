@@ -1,0 +1,403 @@
+{
+  "abstract" : [
+    {
+      "text" : "A struct that handles bearer token authentication.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/App\/documentation\/App"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/App\/documentation\/App\/TokenAuthenticator"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "externalID" : "s:3App18TokenAuthenticatorV",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "struct"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "TokenAuthenticator"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "App"
+      }
+    ],
+    "navigatorTitle" : [
+      {
+        "kind" : "identifier",
+        "text" : "TokenAuthenticator"
+      }
+    ],
+    "remoteSource" : {
+      "fileName" : "BearerAuthenticator.swift",
+      "url" : "https:\/\/github.com\/tktchurch\/api\/blob\/main\/Sources\/App\/Middlewares\/BearerAuthenticator.swift#L5"
+    },
+    "role" : "symbol",
+    "roleHeading" : "Structure",
+    "symbolKind" : "struct",
+    "title" : "TokenAuthenticator"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "struct"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "TokenAuthenticator"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "relationshipsSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/App\/s15BitwiseCopyableP",
+        "doc:\/\/App\/s8SendableP",
+        "doc:\/\/App\/5Vapor18AsyncAuthenticatorP",
+        "doc:\/\/App\/5Vapor24AsyncBearerAuthenticatorP",
+        "doc:\/\/App\/5Vapor15AsyncMiddlewareP",
+        "doc:\/\/App\/5Vapor25AsyncRequestAuthenticatorP",
+        "doc:\/\/App\/5Vapor10MiddlewareP"
+      ],
+      "kind" : "relationships",
+      "title" : "Conforms To",
+      "type" : "conformsTo"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Initializers",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/init()"
+      ],
+      "title" : "Initializers"
+    },
+    {
+      "anchor" : "Instance-Methods",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/authenticate(bearer:for:)"
+      ],
+      "title" : "Instance Methods"
+    },
+    {
+      "anchor" : "Type-Aliases",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/User"
+      ],
+      "title" : "Type Aliases"
+    },
+    {
+      "anchor" : "Default-Implementations",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/AsyncBearerAuthenticator-Implementations",
+        "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/AsyncMiddleware-Implementations",
+        "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/Middleware-Implementations"
+      ],
+      "title" : "Default Implementations"
+    }
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/app\/tokenauthenticator"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://App/5Vapor10MiddlewareP": {
+  "identifier" : "doc:\/\/App\/5Vapor10MiddlewareP",
+  "title" : "Vapor.Middleware",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor15AsyncMiddlewareP": {
+  "identifier" : "doc:\/\/App\/5Vapor15AsyncMiddlewareP",
+  "title" : "Vapor.AsyncMiddleware",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor18AsyncAuthenticatorP": {
+  "identifier" : "doc:\/\/App\/5Vapor18AsyncAuthenticatorP",
+  "title" : "Vapor.AsyncAuthenticator",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor24AsyncBearerAuthenticatorP": {
+  "identifier" : "doc:\/\/App\/5Vapor24AsyncBearerAuthenticatorP",
+  "title" : "Vapor.AsyncBearerAuthenticator",
+  "type" : "unresolvable"
+},
+"doc://App/5Vapor25AsyncRequestAuthenticatorP": {
+  "identifier" : "doc:\/\/App\/5Vapor25AsyncRequestAuthenticatorP",
+  "title" : "Vapor.AsyncRequestAuthenticator",
+  "type" : "unresolvable"
+},
+"doc://App/documentation/App": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "App",
+  "type" : "topic",
+  "url" : "\/documentation\/app"
+},
+"doc://App/documentation/App/TokenAuthenticator": {
+  "abstract" : [
+    {
+      "text" : "A struct that handles bearer token authentication.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "TokenAuthenticator"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenAuthenticator",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "TokenAuthenticator"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "TokenAuthenticator",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokenauthenticator"
+},
+"doc://App/documentation/App/TokenAuthenticator/AsyncBearerAuthenticator-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/AsyncBearerAuthenticator-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "AsyncBearerAuthenticator Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokenauthenticator\/asyncbearerauthenticator-implementations"
+},
+"doc://App/documentation/App/TokenAuthenticator/AsyncMiddleware-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/AsyncMiddleware-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "AsyncMiddleware Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokenauthenticator\/asyncmiddleware-implementations"
+},
+"doc://App/documentation/App/TokenAuthenticator/Middleware-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/Middleware-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Middleware Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokenauthenticator\/middleware-implementations"
+},
+"doc://App/documentation/App/TokenAuthenticator/User": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "typealias"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "User"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/User",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "User"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "TokenAuthenticator.User",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokenauthenticator\/user"
+},
+"doc://App/documentation/App/TokenAuthenticator/authenticate(bearer:for:)": {
+  "abstract" : [
+    {
+      "text" : "Authenticates a user based on the provided bearer token.",
+      "type" : "text"
+    }
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "authenticate"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "bearer"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor19BearerAuthorizationV",
+      "text" : "BearerAuthorization"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "for"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:5Vapor7RequestC",
+      "text" : "Request"
+    },
+    {
+      "kind" : "text",
+      "text" : ") "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "throws"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/authenticate(bearer:for:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "authenticate(bearer:for:)",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokenauthenticator\/authenticate(bearer:for:)"
+},
+"doc://App/documentation/App/TokenAuthenticator/init()": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "identifier",
+      "text" : "init"
+    },
+    {
+      "kind" : "text",
+      "text" : "()"
+    }
+  ],
+  "identifier" : "doc:\/\/App\/documentation\/App\/TokenAuthenticator\/init()",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "init()",
+  "type" : "topic",
+  "url" : "\/documentation\/app\/tokenauthenticator\/init()"
+},
+"doc://App/s15BitwiseCopyableP": {
+  "identifier" : "doc:\/\/App\/s15BitwiseCopyableP",
+  "title" : "Swift.BitwiseCopyable",
+  "type" : "unresolvable"
+},
+"doc://App/s8SendableP": {
+  "identifier" : "doc:\/\/App\/s8SendableP",
+  "title" : "Swift.Sendable",
+  "type" : "unresolvable"
+}
+}
+}
